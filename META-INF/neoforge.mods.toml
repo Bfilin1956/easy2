@@ -1,0 +1,17 @@
+modLoader = "javafml"
+loaderVersion = "[4,)"
+license = "All rights reserved"
+
+[[mods]]
+modId = "msshop"
+version = "2.0"
+displayName = "McSkill Shop"
+authors = "Icosider"
+description = '''Shop module'''
+
+[[dependencies.msshop]]
+modId = "mscore"
+mandatory = true
+versionRange = "[2,)"
+ordering = "NONE"
+side = "BOTH"
