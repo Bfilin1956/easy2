@@ -1,0 +1,11 @@
+{
+  "parent": "mctech:block/cube",
+  "textures": {
+    "down": "mctech:block/machine/custom/ore_macerator/nano/active_down",
+    "up": "mctech:block/machine/custom/ore_macerator/nano/active_up",
+    "east": "mctech:block/machine/custom/ore_macerator/nano/active_north",
+    "north": "mctech:block/machine/custom/ore_macerator/nano/active_south",
+    "south": "mctech:block/machine/custom/ore_macerator/nano/active_north",
+    "west": "mctech:block/machine/custom/ore_macerator/nano/active_north"
+  }
+}

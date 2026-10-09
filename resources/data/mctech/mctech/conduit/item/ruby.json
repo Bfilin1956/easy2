@@ -1,0 +1,10 @@
+{
+  "type": "mctech:item",
+  "description": {
+    "translate": "item.mctech.conduit.item.ruby"
+  },
+  "texture": "mctech:block/conduit/item/ruby",
+  "ticks_per_cycle": 5,
+  "transfer_cycles": 2,
+  "transfer_rate": 64
+}

@@ -1,0 +1,13 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "mctech:item/battery/re_battery_0"
+    },
+    "overrides": [
+        { "predicate": { "angle": 0.0 }, "model": "mctech:item/re_battery_0" },
+        { "predicate": { "angle": 0.1 }, "model": "mctech:item/re_battery_1" },
+        { "predicate": { "angle": 0.2 }, "model": "mctech:item/re_battery_2" },
+        { "predicate": { "angle": 0.3 }, "model": "mctech:item/re_battery_3" },
+        { "predicate": { "angle": 0.4 }, "model": "mctech:item/re_battery_4" }
+	]
+}

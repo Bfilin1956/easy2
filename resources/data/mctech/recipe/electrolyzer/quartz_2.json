@@ -1,0 +1,18 @@
+{
+	"type": "mctech:electrolyzer",
+	"category": "electrolyzer",
+	"group": "electrolyzer",
+	"ingredient": [
+		{
+			"item":"minecraft:granite"
+		}
+	],
+	"input_count": 1,
+	"energy": 1000,
+	"cookingtime": 80.0,
+	"charge": false,
+	"result": {
+		"count": 1,
+		"id": "minecraft:quartz"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"type": "mctech:rare_earth_out",
+	"category": "rare_earth_out",
+	"group": "rare_earth_out",
+	"amount": 1000.0,
+	"material": "mctech:dust_rare_earth",
+	"result": {
+		"count": 1,
+		"id": "mctech:dust_rare_earth"
+	}
+}

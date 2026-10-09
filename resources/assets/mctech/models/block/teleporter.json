@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t4/teleporter/inactive_down",
+		"up": "mctech:block/machine/t4/teleporter/inactive_up",
+		"north": "mctech:block/machine/t4/teleporter/inactive_south",
+		"south": "mctech:block/machine/t4/teleporter/inactive_north",
+		"west": "mctech:block/machine/t4/teleporter/inactive_west",
+		"east": "mctech:block/machine/t4/teleporter/inactive_east"
+	}
+}

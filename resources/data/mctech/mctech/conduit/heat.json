@@ -1,0 +1,8 @@
+{
+  "type": "mctech:heat",
+  "description": {
+    "translate": "item.mctech.conduit.heat"
+  },
+  "texture": "mctech:block/conduit/heat",
+  "transfer_rate": 1000
+}

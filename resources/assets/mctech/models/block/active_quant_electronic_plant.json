@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/electronic_plant/t6/active_down",
+    "east": "mctech:block/electronic_plant/t6/active_east",
+    "north": "mctech:block/electronic_plant/t6/active_north",
+    "particle": "mctech:block/electronic_plant/t6/active_north",
+    "south": "mctech:block/electronic_plant/t6/active_south",
+    "up": "mctech:block/electronic_plant/t6/active_up",
+    "west": "mctech:block/electronic_plant/t6/active_west"
+  }
+}

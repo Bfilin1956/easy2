@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "type": "mctech:resource_ingredient",
+      "count": 1,
+      "id": "kubejs:polished_zircon_power_crystal"
+    },
+    "C": {
+      "type": "mctech:conduit",
+      "conduit_type": "mctech:item/ruby"
+    },
+    "P": {
+      "type": "mctech:resource_ingredient",
+      "count": 1,
+      "id": "kubejs:zircon_polished_plate"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "ACA",
+    "PPP"
+  ],
+  "result": {
+    "components": {
+      "mctech:conduit": "mctech:item/zircon"
+    },
+    "count": 1,
+    "id": "mctech:conduit"
+  }
+}

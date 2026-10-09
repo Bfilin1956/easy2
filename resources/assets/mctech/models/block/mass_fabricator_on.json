@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t4/mass_fabricator/active_down",
+		"up": "mctech:block/machine/t4/mass_fabricator/active_up",
+		"north": "mctech:block/machine/t4/mass_fabricator/active_south",
+		"south": "mctech:block/machine/t4/mass_fabricator/active_north",
+		"west": "mctech:block/machine/t4/mass_fabricator/active_west",
+		"east": "mctech:block/machine/t4/mass_fabricator/active_east"
+	}
+}

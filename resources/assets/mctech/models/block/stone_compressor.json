@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "mctech:block/stone_compressor/down",
+    "front": "mctech:block/stone_compressor/front",
+    "side": "mctech:block/stone_compressor/side",
+    "top": "mctech:block/stone_compressor/up"
+  }
+}

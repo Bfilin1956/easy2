@@ -1,0 +1,9 @@
+{
+  "type": "mctech:eu_conduit",
+  "description": {
+    "translate": "item.mctech.conduit.eu_energy.gold"
+  },
+  "maxVoltage": 129,
+  "texture": "mctech:block/conduit/eu_energy/gold",
+  "transferRate": 128
+}

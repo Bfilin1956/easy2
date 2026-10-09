@@ -1,0 +1,9 @@
+{
+  "type": "mctech:eu_conduit",
+  "description": {
+    "translate": "item.mctech.conduit.eu_energy.nano"
+  },
+  "maxVoltage": 8193,
+  "texture": "mctech:block/conduit/eu_energy/nano",
+  "transferRate": 8192
+}

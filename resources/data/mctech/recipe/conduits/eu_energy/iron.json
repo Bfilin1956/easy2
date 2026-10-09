@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "R": {
+      "item": "mctech:rubber"
+    },
+    "W": {
+      "type": "mctech:resource_ingredient",
+      "count": 1,
+      "id": "kubejs:iron_tempered_wire"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "WWW",
+    "RRR"
+  ],
+  "result": {
+    "components": {
+      "mctech:conduit": "mctech:eu_energy/iron"
+    },
+    "count": 2,
+    "id": "mctech:conduit"
+  }
+}

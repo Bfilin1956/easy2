@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mctech:block/dust/bronze_dust_block",
+    "particle": "mctech:block/dust/bronze_dust_block"
+  }
+}

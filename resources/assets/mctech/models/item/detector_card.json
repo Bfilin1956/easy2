@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mctech:item/tools/monitor/active_detector_card"
+	}
+}

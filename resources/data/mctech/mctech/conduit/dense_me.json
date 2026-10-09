@@ -1,0 +1,8 @@
+{
+  "type": "mctech:me",
+  "description": {
+    "translate": "item.mctech.conduit.me.dense"
+  },
+  "is_dense": true,
+  "texture": "mctech:block/conduit/dense_me"
+}

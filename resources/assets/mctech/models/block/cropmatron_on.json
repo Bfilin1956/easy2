@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t3/crop_matron/active_down",
+		"up": "mctech:block/machine/t3/crop_matron/active_up",
+		"north": "mctech:block/machine/t3/crop_matron/active_south",
+		"south": "mctech:block/machine/t3/crop_matron/active_north",
+		"west": "mctech:block/machine/t3/crop_matron/active_west",
+		"east": "mctech:block/machine/t3/crop_matron/active_east"
+	}
+}

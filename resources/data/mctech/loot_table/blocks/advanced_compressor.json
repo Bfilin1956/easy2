@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:copy_components",
+              "include": [
+                "minecraft:custom_name"
+              ],
+              "source": "block_entity"
+            },
+            {
+              "function": "mctech:drop_inventory"
+            }
+          ],
+          "name": "mctech:advanced_compressor"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "mctech:blocks/advanced_compressor"
+}

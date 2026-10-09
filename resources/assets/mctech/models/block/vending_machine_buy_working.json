@@ -1,0 +1,7 @@
+{
+  "parent": "mctech:block/vending_machine",
+  "textures": {
+    "particle": "mctech:block/vending_machine/vending_machine_buy_working",
+    "view_texture": "mctech:block/vending_machine/vending_machine_buy_working"
+  }
+}

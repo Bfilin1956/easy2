@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "type": "mctech:conduit",
+      "conduit_type": "mctech:item/redstone"
+    },
+    "I": {
+      "item": "minecraft:lapis_lazuli"
+    }
+  },
+  "pattern": [
+    "III",
+    "ICI",
+    "III"
+  ],
+  "result": {
+    "components": {
+      "mctech:conduit": "mctech:item/lapis"
+    },
+    "count": 6,
+    "id": "mctech:conduit"
+  }
+}

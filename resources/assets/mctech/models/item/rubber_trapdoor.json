@@ -1,0 +1,4 @@
+{
+  "parent": "mctech:block/rubber_trapdoor_bottom",
+  "render_type": "minecraft:cutout"
+}

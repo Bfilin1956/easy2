@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "overrides": [
+    {
+      "model": "mctech:item/conduit_probe_copy",
+      "predicate": {
+        "mctech:probe_state": 1.0
+      }
+    }
+  ],
+  "textures": {
+    "layer0": "mctech:item/conduit_probe_probe"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left",
+  "textures": {
+    "bottom": "mctech:blockrubberwood/door_lower",
+    "top": "mctech:blockrubberwood/door_upper"
+  }
+}

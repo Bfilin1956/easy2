@@ -1,0 +1,9 @@
+{
+  "type": "mctech:eu_conduit",
+  "description": {
+    "translate": "item.mctech.conduit.eu_energy.composite"
+  },
+  "maxVoltage": 4097,
+  "texture": "mctech:block/conduit/eu_energy/composite",
+  "transferRate": 4096
+}

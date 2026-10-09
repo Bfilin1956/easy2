@@ -1,0 +1,12 @@
+{
+	"type": "mctech:rare_earth_in",
+	"category": "rare_earth_in",
+	"group": "rare_earth_in",
+	"ingredient": [
+		{
+			"item":"minecraft:netherrack"
+		}
+	],
+	"amount": 7.8125,
+	"material": "mctech:dust_rare_earth"
+}

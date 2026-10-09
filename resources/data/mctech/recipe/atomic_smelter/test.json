@@ -1,0 +1,23 @@
+{
+  "type": "mctech:atomic_smelter",
+  "category": "atomic_smelter",
+  "group": "atomic_smelter",
+  "ingredients": [
+    {
+      "id": "minecraft:emerald_block",
+      "count": 8
+    }
+  ],
+  "fluid_ingredient": {
+    "id": "minecraft:water",
+    "amount": 250
+  },
+  "consumables": [
+    "mctech:fuel",
+    "mctech:catalyst"
+  ],
+  "result": {
+    "id": "mctech:bio_fuel",
+    "amount": 1000
+  }
+}

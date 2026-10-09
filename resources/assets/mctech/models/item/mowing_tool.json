@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "mctech:item/tools/mowing/base_off"
+	},
+	"overrides": [
+        { "predicate": { "angle": 1.0 }, "model": "mctech:tools/mowing_tool/mowing_tool_on" }
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t2/recycler/active_down",
+		"up": "mctech:block/machine/t2/recycler/active_up",
+		"north": "mctech:block/machine/t2/recycler/active_south",
+		"south": "mctech:block/machine/t2/recycler/active_north",
+		"west": "mctech:block/machine/t2/recycler/active_west",
+		"east": "mctech:block/machine/t2/recycler/active_east"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/misc/down",
+		"up": "mctech:block/misc/up",
+		"north": "mctech:block/misc/south",
+		"south": "mctech:block/misc/north",
+		"west": "mctech:block/misc/west",
+		"east": "mctech:block/misc/east"
+	}
+}

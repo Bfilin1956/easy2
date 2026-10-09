@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t4/rocket_miner/inactive_down",
+		"up": "mctech:block/machine/t4/rocket_miner/inactive_up",
+		"north": "mctech:block/machine/t4/rocket_miner/inactive_south",
+		"south": "mctech:block/machine/t4/rocket_miner/inactive_north",
+		"west": "mctech:block/machine/t4/rocket_miner/inactive_west",
+		"east": "mctech:block/machine/t4/rocket_miner/inactive_east"
+	}
+}

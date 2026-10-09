@@ -1,0 +1,73 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "mctech:block/composite_cable"
+      },
+      "when": {
+        "foamed": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/composite_cable_side"
+      },
+      "when": {
+        "foamed": "0",
+        "north": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/composite_cable_side",
+        "y": 180
+      },
+      "when": {
+        "foamed": "0",
+        "south": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/composite_cable_side",
+        "y": 90
+      },
+      "when": {
+        "east": "true",
+        "foamed": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/composite_cable_side",
+        "y": 270
+      },
+      "when": {
+        "foamed": "0",
+        "west": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/composite_cable_side",
+        "x": 270,
+        "y": 90
+      },
+      "when": {
+        "foamed": "0",
+        "up": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/composite_cable_side",
+        "x": 90,
+        "y": 90
+      },
+      "when": {
+        "down": "true",
+        "foamed": "0"
+      }
+    }
+  ]
+}

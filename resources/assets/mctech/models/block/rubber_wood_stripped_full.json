@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/rubber_wood_stripped/log_stripped_top",
+    "east": "mctech:block/rubber_wood_stripped/log_stripped_side_normal",
+    "north": "mctech:block/rubber_wood_stripped/log_stripped_side_full",
+    "south": "mctech:block/rubber_wood_stripped/log_stripped_side_normal",
+    "up": "mctech:block/rubber_wood_stripped/log_stripped_top",
+    "west": "mctech:block/rubber_wood_stripped/log_stripped_side_normal"
+  }
+}

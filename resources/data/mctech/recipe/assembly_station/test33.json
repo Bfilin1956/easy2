@@ -1,0 +1,75 @@
+{
+  "type": "mctech:assembly_station",
+  "category": "assembly_station",
+  "group": "assembly_station",
+  "shapeless": [
+    {
+      "id": "minecraft:oak_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:spruce_log",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond",
+      "count": 1
+    },
+    {
+      "id": "minecraft:coal",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cyan_wool",
+      "count": 1
+    },
+    {
+      "id": "minecraft:diamond_block",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bell",
+      "count": 1
+    },
+    {
+      "id": "minecraft:cobweb",
+      "count": 1
+    },
+    {
+      "id": "minecraft:bucket",
+      "count": 1
+    },
+    {
+      "id": "minecraft:torch",
+      "count": 1
+    },
+    {
+      "id": "minecraft:redstone_lamp",
+      "count": 1
+    }
+  ],
+  "fluids": [
+    {
+      "id": "minecraft:lava",
+      "amount": 1000
+    },
+    {
+      "id": "mctech:bio_fuel",
+      "amount": 380
+    }
+  ],
+  "consumables": [
+    "mctech:axes"
+  ],
+  "required_energy": 150,
+  "required_time": 50,
+  "experience": 0,
+  "result": {
+    "id": "minecraft:coal",
+    "count": 8
+  }
+}

@@ -1,0 +1,46 @@
+{	
+	"variants": {
+		"facing=east,active=false": {
+			"model": "mctech:block/sawmill",
+			"y": 90
+		},
+		"facing=east,active=true": {
+			"model": "mctech:block/sawmill_on",
+			"y": 90
+		},
+		"facing=north,active=false": {
+			"model": "mctech:block/sawmill"
+		},
+		"facing=north,active=true": {
+			"model": "mctech:block/sawmill_on"
+		},
+		"facing=south,active=false": {
+			"model": "mctech:block/sawmill",
+			"y": 180
+		},
+		"facing=south,active=true": {
+			"model": "mctech:block/sawmill_on",
+			"y": 180
+		},
+		"facing=west,active=false": {
+			"model": "mctech:block/sawmill",
+			"y": 270
+		},
+		"facing=west,active=true": {
+			"model": "mctech:block/sawmill_on",
+			"y": 270
+		},
+		"facing=down,active=false": {
+			"model": "mctech:block/sawmill"
+		},
+		"facing=down,active=true": {
+			"model": "mctech:block/sawmill_on"
+		},
+		"facing=up,active=false": {
+			"model": "mctech:block/sawmill"
+		},
+		"facing=up,active=true": {
+			"model": "mctech:block/sawmill_on"
+		}
+	}
+}

@@ -1,0 +1,58 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 128,
+				"texture_height": 128,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "Block",
+					"pivot": [0, 0, 0],
+					"rotation": [0, 180, 0],
+					"cubes": [
+						{"origin": [-6, 0, -6], "size": [12, 6, 12], "uv": [0, 22]},
+						{"origin": [-5, 6, -5], "size": [10, 4, 10], "uv": [0, 40]},
+						{"origin": [-6, 0, 6], "size": [12, 10, 2], "uv": [40, 40]},
+						{"origin": [-8, 10, -8], "size": [16, 6, 16], "uv": [0, 0]},
+						{"origin": [-8, 0, 6], "size": [2, 10, 2], "uv": [40, 52]}
+					]
+				},
+				{
+					"name": "Side",
+					"parent": "Block",
+					"pivot": [-7, 0, -7],
+					"cubes": [
+						{"origin": [-13, 0, -1], "size": [12, 10, 2], "pivot": [-7, 0, 0], "rotation": [0, -90, 0], "uv": [48, 22]},
+						{"origin": [-8, 0, -8], "size": [2, 10, 2], "pivot": [-7, 0, -7], "rotation": [0, -90, 0], "uv": [40, 52]}
+					]
+				},
+				{
+					"name": "Side2",
+					"parent": "Block",
+					"pivot": [7, 0, -7],
+					"rotation": [0, -90, 0],
+					"cubes": [
+						{"origin": [1, 0, -1], "size": [12, 10, 2], "pivot": [7, 0, 0], "rotation": [0, -90, 0], "uv": [48, 22]},
+						{"origin": [6, 0, -8], "size": [2, 10, 2], "pivot": [7, 0, -7], "rotation": [0, -90, 0], "uv": [40, 52]}
+					]
+				},
+				{
+					"name": "Side3",
+					"parent": "Block",
+					"pivot": [7, 0, 7],
+					"rotation": [0, 180, 0],
+					"cubes": [
+						{"origin": [1, 0, 13], "size": [12, 10, 2], "pivot": [7, 0, 14], "rotation": [0, -90, 0], "uv": [48, 22]},
+						{"origin": [6, 0, 6], "size": [2, 10, 2], "pivot": [7, 0, 7], "rotation": [0, -90, 0], "uv": [40, 52]}
+					]
+				}
+			]
+		}
+	]
+}

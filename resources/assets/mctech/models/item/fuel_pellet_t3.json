@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mctech:item/fuel_pelette/pelette_t3"
+  }
+}

@@ -1,0 +1,10 @@
+{
+	"type": "mctech:scrap_box",
+	"category": "scrap_box",
+	"group": "scrap_box",
+	"chance": 0.9,
+	"result": {
+		"count": 1,
+		"id": "minecraft:pumpkin"
+	}
+}

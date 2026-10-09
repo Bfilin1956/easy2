@@ -1,0 +1,8 @@
+{
+  "values": [
+    {
+      "id": "mctech:debug_world",
+      "required": false
+    }
+  ]
+}

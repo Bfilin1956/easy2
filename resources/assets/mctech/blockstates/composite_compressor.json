@@ -1,0 +1,50 @@
+{
+  "variants": {
+    "active=false,facing=down": {
+      "model": "mctech:block/inactive_composite_compressor",
+      "y": 270
+    },
+    "active=false,facing=east": {
+      "model": "mctech:block/inactive_composite_compressor",
+      "y": 270
+    },
+    "active=false,facing=north": {
+      "model": "mctech:block/inactive_composite_compressor",
+      "y": 180
+    },
+    "active=false,facing=south": {
+      "model": "mctech:block/inactive_composite_compressor"
+    },
+    "active=false,facing=up": {
+      "model": "mctech:block/inactive_composite_compressor",
+      "y": 270
+    },
+    "active=false,facing=west": {
+      "model": "mctech:block/inactive_composite_compressor",
+      "y": 90
+    },
+    "active=true,facing=down": {
+      "model": "mctech:block/active_composite_compressor",
+      "y": 270
+    },
+    "active=true,facing=east": {
+      "model": "mctech:block/active_composite_compressor",
+      "y": 270
+    },
+    "active=true,facing=north": {
+      "model": "mctech:block/active_composite_compressor",
+      "y": 180
+    },
+    "active=true,facing=south": {
+      "model": "mctech:block/active_composite_compressor"
+    },
+    "active=true,facing=up": {
+      "model": "mctech:block/active_composite_compressor",
+      "y": 270
+    },
+    "active=true,facing=west": {
+      "model": "mctech:block/active_composite_compressor",
+      "y": 90
+    }
+  }
+}

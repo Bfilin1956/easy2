@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t3/vacuum_canner/active_down",
+		"up": "mctech:block/machine/t3/vacuum_canner/active_up",
+		"north": "mctech:block/machine/t3/vacuum_canner/active_south",
+		"south": "mctech:block/machine/t3/vacuum_canner/active_north",
+		"west": "mctech:block/machine/t3/vacuum_canner/active_west",
+		"east": "mctech:block/machine/t3/vacuum_canner/active_east"
+	}
+}

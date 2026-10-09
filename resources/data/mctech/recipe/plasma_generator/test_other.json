@@ -1,0 +1,17 @@
+{
+  "type": "mctech:plasma_generator",
+  "category": "plasma_generator",
+  "group": "plasma_generator",
+  "ingredients": [
+    {
+      "id": "minecraft:emerald",
+      "count": 1
+    }
+  ],
+  "required_energy": 128,
+  "required_time": 11,
+  "fluid_result": {
+    "id": "mctech:blazing_lava",
+    "amount": 1000
+  }
+}

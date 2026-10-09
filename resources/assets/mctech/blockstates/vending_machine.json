@@ -1,0 +1,412 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_buy_working",
+        "y": 360
+      },
+      "when": {
+        "busy": "false",
+        "disabled": "false",
+        "facing": "north",
+        "mode": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_sale_working",
+        "y": 360
+      },
+      "when": {
+        "busy": "false",
+        "disabled": "false",
+        "facing": "north",
+        "mode": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_trade_working",
+        "y": 360
+      },
+      "when": {
+        "busy": "false",
+        "disabled": "false",
+        "facing": "north",
+        "mode": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_buy_busy",
+        "y": 360
+      },
+      "when": {
+        "busy": "true",
+        "facing": "north",
+        "mode": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_sale_busy",
+        "y": 360
+      },
+      "when": {
+        "busy": "true",
+        "facing": "north",
+        "mode": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_trade_busy",
+        "y": 360
+      },
+      "when": {
+        "busy": "true",
+        "facing": "north",
+        "mode": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_buy_notworking",
+        "y": 360
+      },
+      "when": {
+        "disabled": "true",
+        "facing": "north",
+        "mode": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_sale_notworking",
+        "y": 360
+      },
+      "when": {
+        "disabled": "true",
+        "facing": "north",
+        "mode": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_trade_notworking",
+        "y": 360
+      },
+      "when": {
+        "disabled": "true",
+        "facing": "north",
+        "mode": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_buy_working",
+        "y": 450
+      },
+      "when": {
+        "busy": "false",
+        "disabled": "false",
+        "facing": "east",
+        "mode": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_sale_working",
+        "y": 450
+      },
+      "when": {
+        "busy": "false",
+        "disabled": "false",
+        "facing": "east",
+        "mode": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_trade_working",
+        "y": 450
+      },
+      "when": {
+        "busy": "false",
+        "disabled": "false",
+        "facing": "east",
+        "mode": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_buy_busy",
+        "y": 450
+      },
+      "when": {
+        "busy": "true",
+        "facing": "east",
+        "mode": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_sale_busy",
+        "y": 450
+      },
+      "when": {
+        "busy": "true",
+        "facing": "east",
+        "mode": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_trade_busy",
+        "y": 450
+      },
+      "when": {
+        "busy": "true",
+        "facing": "east",
+        "mode": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_buy_notworking",
+        "y": 450
+      },
+      "when": {
+        "disabled": "true",
+        "facing": "east",
+        "mode": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_sale_notworking",
+        "y": 450
+      },
+      "when": {
+        "disabled": "true",
+        "facing": "east",
+        "mode": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_trade_notworking",
+        "y": 450
+      },
+      "when": {
+        "disabled": "true",
+        "facing": "east",
+        "mode": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_buy_working",
+        "y": 180
+      },
+      "when": {
+        "busy": "false",
+        "disabled": "false",
+        "facing": "south",
+        "mode": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_sale_working",
+        "y": 180
+      },
+      "when": {
+        "busy": "false",
+        "disabled": "false",
+        "facing": "south",
+        "mode": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_trade_working",
+        "y": 180
+      },
+      "when": {
+        "busy": "false",
+        "disabled": "false",
+        "facing": "south",
+        "mode": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_buy_busy",
+        "y": 180
+      },
+      "when": {
+        "busy": "true",
+        "facing": "south",
+        "mode": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_sale_busy",
+        "y": 180
+      },
+      "when": {
+        "busy": "true",
+        "facing": "south",
+        "mode": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_trade_busy",
+        "y": 180
+      },
+      "when": {
+        "busy": "true",
+        "facing": "south",
+        "mode": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_buy_notworking",
+        "y": 180
+      },
+      "when": {
+        "disabled": "true",
+        "facing": "south",
+        "mode": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_sale_notworking",
+        "y": 180
+      },
+      "when": {
+        "disabled": "true",
+        "facing": "south",
+        "mode": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_trade_notworking",
+        "y": 180
+      },
+      "when": {
+        "disabled": "true",
+        "facing": "south",
+        "mode": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_buy_working",
+        "y": 270
+      },
+      "when": {
+        "busy": "false",
+        "disabled": "false",
+        "facing": "west",
+        "mode": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_sale_working",
+        "y": 270
+      },
+      "when": {
+        "busy": "false",
+        "disabled": "false",
+        "facing": "west",
+        "mode": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_trade_working",
+        "y": 270
+      },
+      "when": {
+        "busy": "false",
+        "disabled": "false",
+        "facing": "west",
+        "mode": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_buy_busy",
+        "y": 270
+      },
+      "when": {
+        "busy": "true",
+        "facing": "west",
+        "mode": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_sale_busy",
+        "y": 270
+      },
+      "when": {
+        "busy": "true",
+        "facing": "west",
+        "mode": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_trade_busy",
+        "y": 270
+      },
+      "when": {
+        "busy": "true",
+        "facing": "west",
+        "mode": "1"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_buy_notworking",
+        "y": 270
+      },
+      "when": {
+        "disabled": "true",
+        "facing": "west",
+        "mode": "0"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_sale_notworking",
+        "y": 270
+      },
+      "when": {
+        "disabled": "true",
+        "facing": "west",
+        "mode": "2"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/vending_machine_trade_notworking",
+        "y": 270
+      },
+      "when": {
+        "disabled": "true",
+        "facing": "west",
+        "mode": "1"
+      }
+    }
+  ]
+}

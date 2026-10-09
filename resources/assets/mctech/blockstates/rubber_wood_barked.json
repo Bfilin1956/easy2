@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "mctech:block/rubber_wood_barked"
+    },
+    "axis=y": {
+      "model": "mctech:block/rubber_wood_barked"
+    },
+    "axis=z": {
+      "model": "mctech:block/rubber_wood_barked"
+    }
+  }
+}

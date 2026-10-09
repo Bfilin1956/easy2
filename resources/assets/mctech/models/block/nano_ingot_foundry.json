@@ -1,0 +1,11 @@
+{
+  "parent": "mctech:block/cube",
+  "textures": {
+    "down": "mctech:block/machine/custom/ingot_foundry/nano/inactive_down",
+    "east": "mctech:block/machine/custom/ingot_foundry/nano/inactive_north",
+    "north": "mctech:block/machine/custom/ingot_foundry/nano/inactive_south",
+    "south": "mctech:block/machine/custom/ingot_foundry/nano/inactive_north",
+    "up": "mctech:block/machine/custom/ingot_foundry/nano/inactive_up",
+    "west": "mctech:block/machine/custom/ingot_foundry/nano/inactive_north"
+  }
+}

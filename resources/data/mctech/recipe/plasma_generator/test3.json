@@ -1,0 +1,25 @@
+{
+  "type": "mctech:plasma_generator",
+  "category": "plasma_generator",
+  "group": "plasma_generator",
+  "ingredients": [
+    {
+      "id": "minecraft:diamond",
+      "count": 1
+    },
+    {
+      "id": "minecraft:stone",
+      "count": 1
+    },
+    {
+      "id": "minecraft:oak_log",
+      "count": 1
+    }
+  ],
+  "required_energy": 128,
+  "required_time": 250,
+  "fluid_result": {
+    "id": "mctech:bio_fuel",
+    "amount": 1000
+  }
+}

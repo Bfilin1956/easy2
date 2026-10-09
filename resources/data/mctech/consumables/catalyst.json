@@ -1,0 +1,12 @@
+{
+  "name": "catalyst",
+  "items": [
+    "mctech:consumable_basic_catalyst",
+    "mctech:consumable_isotopic_catalyst",
+    "mctech:consumable_composite_catalyst",
+    "mctech:consumable_nano_catalyst",
+    "mctech:consumable_quantum_catalyst",
+    "mctech:consumable_singularity_catalyst",
+    "mctech:consumable_rubidium_catalyst"
+  ]
+}

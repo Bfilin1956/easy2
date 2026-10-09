@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "mctech:block/rubber_wood_stripped/log_stripped_top",
+    "side": "mctech:block/rubber_wood_stripped/log_stripped_side_normal"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "type": "mctech:conduit",
+      "conduit_type": "mctech:fluid/lapis"
+    },
+    "P": {
+      "type": "mctech:resource_ingredient",
+      "count": 1,
+      "id": "kubejs:amethyst_rough_plate"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "PCP",
+    "PPP"
+  ],
+  "result": {
+    "components": {
+      "mctech:conduit": "mctech:fluid/amethyst"
+    },
+    "count": 6,
+    "id": "mctech:conduit"
+  }
+}

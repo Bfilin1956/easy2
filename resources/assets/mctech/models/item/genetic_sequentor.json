@@ -1,0 +1,17 @@
+{
+  "parent": "mctech:block/genetic_sequentor",
+  "display": {
+    "fixed": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "translation": [
+        0,
+        -4,
+        0
+      ]
+    }
+  }
+}

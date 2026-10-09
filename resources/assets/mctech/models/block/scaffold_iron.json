@@ -1,0 +1,7 @@
+{
+	"parent": "mctech:block/scaffold",
+	"textures": {
+		"side": "mctech:block/scaffolding/iron_side",
+		"top": "mctech:block/scaffolding/iron_top"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/electric/generator/slag/active_down",
+		"up": "mctech:block/electric/generator/slag/active_up",
+		"north": "mctech:block/electric/generator/slag/active_south",
+		"south": "mctech:block/electric/generator/slag/active_north",
+		"west": "mctech:block/electric/generator/slag/active_west",
+		"east": "mctech:block/electric/generator/slag/active_east"
+	}
+}

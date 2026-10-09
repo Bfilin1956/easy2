@@ -1,0 +1,10 @@
+{
+  "type": "mctech:item",
+  "description": {
+    "translate": "item.mctech.conduit.item.sapphire"
+  },
+  "texture": "mctech:block/conduit/item/sapphire",
+  "ticks_per_cycle": 5,
+  "transfer_cycles": 8,
+  "transfer_rate": 64
+}

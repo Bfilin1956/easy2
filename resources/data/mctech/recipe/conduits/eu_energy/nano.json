@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "type": "mctech:conduit",
+      "conduit_type": "mctech:eu_energy/composite"
+    },
+    "W": {
+      "type": "mctech:resource_ingredient",
+      "count": 1,
+      "id": "kubejs:brass_tempered_wire"
+    }
+  },
+  "pattern": [
+    "WWW",
+    "WCW",
+    "WWW"
+  ],
+  "result": {
+    "components": {
+      "mctech:conduit": "mctech:eu_energy/nano"
+    },
+    "count": 3,
+    "id": "mctech:conduit"
+  }
+}

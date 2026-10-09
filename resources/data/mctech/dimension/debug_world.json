@@ -1,0 +1,6 @@
+{
+  "type": "mctech:debug_world_type",
+  "generator": {
+    "type": "mctech:debug_world_generator"
+  }
+}

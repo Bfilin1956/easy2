@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mctech:block/machine_block/nano_machine_block",
+    "particle": "mctech:block/machine_block/nano_machine_block"
+  }
+}

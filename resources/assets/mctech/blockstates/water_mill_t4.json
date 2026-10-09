@@ -1,0 +1,46 @@
+{	
+	"variants": {
+		"facing=east,active=false": {
+			"model": "mctech:block/water_mill_t4",
+			"y": 90
+		},
+		"facing=east,active=true": {
+			"model": "mctech:block/water_mill_t4_on",
+			"y": 90
+		},
+		"facing=north,active=false": {
+			"model": "mctech:block/water_mill_t4"
+		},
+		"facing=north,active=true": {
+			"model": "mctech:block/water_mill_t4_on"
+		},
+		"facing=south,active=false": {
+			"model": "mctech:block/water_mill_t4",
+			"y": 180
+		},
+		"facing=south,active=true": {
+			"model": "mctech:block/water_mill_t4_on",
+			"y": 180
+		},
+		"facing=west,active=false": {
+			"model": "mctech:block/water_mill_t4",
+			"y": 270
+		},
+		"facing=west,active=true": {
+			"model": "mctech:block/water_mill_t4_on",
+			"y": 270
+		},
+		"facing=down,active=false": {
+			"model": "mctech:block/water_mill_t4"
+		},
+		"facing=down,active=true": {
+			"model": "mctech:block/water_mill_t4_on"
+		},
+		"facing=up,active=false": {
+			"model": "mctech:block/water_mill_t4"
+		},
+		"facing=up,active=true": {
+			"model": "mctech:block/water_mill_t4_on"
+		}
+	}
+}

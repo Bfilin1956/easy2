@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "mctech:block/stone_extractor/down",
+    "front": "mctech:block/stone_extractor/front",
+    "side": "mctech:block/stone_extractor/side",
+    "top": "mctech:block/stone_extractor/up"
+  }
+}

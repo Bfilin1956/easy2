@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mctech:block/rubber_wood_barked_stripped/log_barked_stripped_side_normal"
+  }
+}

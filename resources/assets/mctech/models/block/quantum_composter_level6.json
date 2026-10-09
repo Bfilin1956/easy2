@@ -1,0 +1,26 @@
+{
+  "parent": "mctech:block/quantum_composter",
+  "elements": [
+    {
+      "faces": {
+        "up": {
+          "texture": "#content"
+        }
+      },
+      "from": [
+        2,
+        2,
+        2
+      ],
+      "to": [
+        14,
+        14,
+        14
+      ]
+    }
+  ],
+  "textures": {
+    "content": "minecraft:block/powder_snow",
+    "particle": "minecraft:block/powder_snow"
+  }
+}

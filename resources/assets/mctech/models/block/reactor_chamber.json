@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/electric/generator/reactor_chamber/down",
+		"up": "mctech:block/electric/generator/reactor_chamber/up",
+		"north": "mctech:block/electric/generator/reactor_chamber/side",
+		"south": "mctech:block/electric/generator/reactor_chamber/side",
+		"west": "mctech:block/electric/generator/reactor_chamber/side",
+		"east": "mctech:block/electric/generator/reactor_chamber/side"
+	}
+}

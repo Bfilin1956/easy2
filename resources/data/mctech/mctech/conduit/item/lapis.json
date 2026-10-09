@@ -1,0 +1,8 @@
+{
+  "type": "mctech:item",
+  "description": {
+    "translate": "item.mctech.conduit.item.lapis"
+  },
+  "texture": "mctech:block/conduit/item/lapis",
+  "transfer_rate": 8
+}

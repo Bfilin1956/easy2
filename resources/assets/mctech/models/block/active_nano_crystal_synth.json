@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/crystal_synth/t5/active_down",
+    "east": "mctech:block/crystal_synth/t5/active_east",
+    "north": "mctech:block/crystal_synth/t5/active_north",
+    "particle": "mctech:block/crystal_synth/t5/active_north",
+    "south": "mctech:block/crystal_synth/t5/active_south",
+    "up": "mctech:block/crystal_synth/t5/active_up",
+    "west": "mctech:block/crystal_synth/t5/active_west"
+  }
+}

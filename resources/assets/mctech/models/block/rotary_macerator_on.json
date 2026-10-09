@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t3/rotary_macerator/active_down",
+		"up": "mctech:block/machine/t3/rotary_macerator/active_up",
+		"north": "mctech:block/machine/t3/rotary_macerator/active_south",
+		"south": "mctech:block/machine/t3/rotary_macerator/active_north",
+		"west": "mctech:block/machine/t3/rotary_macerator/active_west",
+		"east": "mctech:block/machine/t3/rotary_macerator/active_east"
+	}
+}

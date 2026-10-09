@@ -1,0 +1,9 @@
+{
+  "type": "mctech:eu_conduit",
+  "description": {
+    "translate": "item.mctech.conduit.eu_energy.rubidium"
+  },
+  "maxVoltage": 131072,
+  "texture": "mctech:block/conduit/eu_energy/rubidium",
+  "transferRate": 131072
+}

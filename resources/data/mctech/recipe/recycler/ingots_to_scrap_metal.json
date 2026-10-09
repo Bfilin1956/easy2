@@ -1,0 +1,19 @@
+{
+	"type": "mctech:recycler",
+	"category": "recycler",
+	"group": "recycler",
+	"ingredient": [
+		{
+			"tag": "c:ingots"
+		}
+	],
+	"energy": 10,
+	"cookingtime": 80.0,
+	"stone": true,
+	"experience": 0.0,
+	"chance": 0.125,
+	"result": {
+		"count": 1,
+		"id": "mctech:scrap_metal"
+	}
+}

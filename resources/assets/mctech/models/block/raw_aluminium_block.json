@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mctech:block/raw/raw_aluminium_block",
+    "particle": "mctech:block/raw/raw_aluminium_block"
+  }
+}

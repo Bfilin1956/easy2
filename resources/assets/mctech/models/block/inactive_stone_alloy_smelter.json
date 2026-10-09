@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "mctech:block/stone_alloy_smelter/down",
+    "front": "mctech:block/stone_alloy_smelter/front_inactive",
+    "side": "mctech:block/stone_alloy_smelter/side",
+    "top": "mctech:block/stone_alloy_smelter/up"
+  }
+}

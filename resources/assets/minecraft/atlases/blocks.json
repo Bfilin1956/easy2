@@ -1,0 +1,36 @@
+{
+	"sources": [
+		{
+			"type": "single",
+			"resource": "mctech:gui/components/slot/charge_slot"
+		},
+		{
+			"type": "single",
+			"resource": "mctech:gui/components/slot/discharge"
+		},
+		{
+			"type": "single",
+			"resource": "mctech:gui/components/slot/fluid_drain"
+		},
+		{
+			"type": "single",
+			"resource": "mctech:gui/components/slot/fuel"
+		},
+		{
+			"type": "single",
+			"resource": "mctech:gui/components/slot/upgrade"
+		},
+		{
+			"type": "single",
+			"resource": "mctech:gui/components/slot/scanner"
+		},
+		{
+			"type": "single",
+			"resource": "mctech:gui/components/slot/scrap"
+		},
+		{
+			"type": "single",
+			"resource": "mctech:gui/components/slot/seed_bag"
+		}
+	]
+}

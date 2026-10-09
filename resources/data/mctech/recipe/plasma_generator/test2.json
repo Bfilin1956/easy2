@@ -1,0 +1,21 @@
+{
+  "type": "mctech:plasma_generator",
+  "category": "plasma_generator",
+  "group": "plasma_generator",
+  "ingredients": [
+    {
+      "id": "minecraft:redstone_block",
+      "count": 2
+    },
+    {
+      "id": "minecraft:emerald_block",
+      "count": 1
+    }
+  ],
+  "required_energy": 100,
+  "required_time": 50,
+  "fluid_result": {
+    "id": "minecraft:milk",
+    "amount": 750
+  }
+}

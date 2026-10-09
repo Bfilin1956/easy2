@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/electric/generator/geothermal/inactive_down",
+		"up": "mctech:block/electric/generator/geothermal/inactive_up",
+		"north": "mctech:block/electric/generator/geothermal/inactive_south",
+		"south": "mctech:block/electric/generator/geothermal/inactive_north",
+		"west": "mctech:block/electric/generator/geothermal/inactive_west",
+		"east": "mctech:block/electric/generator/geothermal/inactive_east"
+	}
+}

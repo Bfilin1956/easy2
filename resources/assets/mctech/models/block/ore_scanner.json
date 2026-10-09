@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t4/ore_probe/inactive_down",
+		"up": "mctech:block/machine/t4/ore_probe/inactive_up",
+		"north": "mctech:block/machine/t4/ore_probe/inactive_south",
+		"south": "mctech:block/machine/t4/ore_probe/inactive_north",
+		"west": "mctech:block/machine/t4/ore_probe/inactive_west",
+		"east": "mctech:block/machine/t4/ore_probe/inactive_east"
+	}
+}

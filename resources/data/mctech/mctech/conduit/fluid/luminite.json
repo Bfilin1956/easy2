@@ -1,0 +1,10 @@
+{
+  "type": "mctech:fluid",
+  "description": {
+    "translate": "item.mctech.conduit.fluid.luminite"
+  },
+  "does_support_priority": true,
+  "is_multi_fluid": true,
+  "texture": "mctech:block/conduit/fluid/luminite",
+  "transfer_rate": 6400
+}

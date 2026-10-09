@@ -1,0 +1,20 @@
+{
+  "values": [
+    "mctech:bedrock_bedrock_ore",
+    "mctech:bedrock_amethyst_ore",
+    "mctech:bedrock_coal_ore",
+    "mctech:bedrock_copper_ore",
+    "mctech:bedrock_diamond_ore",
+    "mctech:bedrock_emerald_ore",
+    "mctech:bedrock_gold_ore",
+    "mctech:bedrock_iron_ore",
+    "mctech:bedrock_lapis_ore",
+    "mctech:bedrock_redstone_ore",
+    "mctech:bedrock_silver_ore",
+    "mctech:bedrock_tin_ore",
+    "mctech:bedrock_uranium_ore",
+    "mctech:bedrock_tungsten_ore",
+    "mctech:bedrock_netherite_ore",
+    "mctech:bedrock_titanium_ore"
+  ]
+}

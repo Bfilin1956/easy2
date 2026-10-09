@@ -1,0 +1,130 @@
+{
+  "format_version": "1.8.0",
+  "animations": {
+    "animation": {
+      "loop": true,
+      "animation_length": 12,
+      "bones": {
+        "Outer": {
+          "rotation": [
+            0,
+            "(query.anim_time * 90 - 6 * math.sin(query.anim_time * 360))",
+            0
+          ]
+        },
+        "PedestalFrontLeft": {
+          "scale": [
+            1,
+            "1.25 + 0.5 * math.sin(query.anim_time * (360 / 4))",
+            1
+          ]
+        },
+        "PedestalBackLeft": {
+          "scale": [
+            1,
+            "1.25 + 0.5 * math.sin(query.anim_time * (360 / 4) - 180)",
+            1
+          ]
+        },
+        "PedesFrontRight": {
+          "scale": [
+            1,
+            "1.25 + 0.5 * math.sin(query.anim_time * (360 / 4) - 270)",
+            1
+          ]
+        },
+        "PedestalBackLeft2": {
+          "scale": [
+            1,
+            "1.25 + 0.5 * math.sin(query.anim_time * (360 / 4) - 90)",
+            1
+          ]
+        },
+        "RubicCube": {
+          "position": [
+            0,
+            "1 * math.sin(query.anim_time * (360 / 6))",
+            0
+          ]
+        },
+        "Inner": {
+          "rotation": [
+            0,
+            "query.anim_time * 90",
+            0
+          ]
+        },
+        "RubicTopBackRight": {
+          "position": [
+            "-0.25 * math.sin(query.anim_time * 180 - 270)",
+            "-0.25 * math.sin(query.anim_time * 180 - 270)",
+            "0.25 * math.sin(query.anim_time * 180 - 270)"
+          ]
+        },
+        "RubicTopBackLeft": {
+          "position": [
+            "0.25 * math.sin(query.anim_time * 180 - 225)",
+            "0.25 * math.sin(query.anim_time * 180 - 225)",
+            "0.25 * math.sin(query.anim_time * 180 - 225)"
+          ]
+        },
+        "RubicTopFrontLeft": {
+          "position": [
+            "-0.25 * math.sin(query.anim_time * 180 - 135)",
+            "0.25 * math.sin(query.anim_time * 180 - 135)",
+            "0.25 * math.sin(query.anim_time * 180 - 135)"
+          ]
+        },
+        "RubicTopFrontRight": {
+          "position": [
+            "-0.25 * math.sin(query.anim_time * 180 - 270)",
+            "0.25 * math.sin(query.anim_time * 180 - 270)",
+            "-0.25 * math.sin(query.anim_time * 180 - 270)"
+          ]
+        },
+        "RubicBottomFrontLeft": {
+          "position": [
+            "-0.25 * math.sin(query.anim_time * 180 - 45)",
+            "-0.25 * math.sin(query.anim_time * 180 - 45)",
+            "0.25 * math.sin(query.anim_time * 180 - 45)"
+          ]
+        },
+        "RubicBottomBackRight": {
+          "position": [
+            "-0.25 * math.sin(query.anim_time * 180 - 180)",
+            "0.25 * math.sin(query.anim_time * 180 - 180)",
+            "0.25 * math.sin(query.anim_time * 180 - 180)"
+          ]
+        },
+        "RubicBottomFrontRight": {
+          "position": [
+            "0.25 * math.sin(query.anim_time * 180)",
+            "0.25 * math.sin(query.anim_time * 180)",
+            "0.25 * math.sin(query.anim_time * 180)"
+          ]
+        },
+        "RubicBottomBackLeft": {
+          "position": [
+            "-0.25 * math.sin(query.anim_time * 180 - 90)",
+            "0.25 * math.sin(query.anim_time * 180 - 90)",
+            "-0.25 * math.sin(query.anim_time * 180 - 90)"
+          ]
+        },
+        "Outline": {
+          "rotation": [
+            0,
+            "(query.anim_time * 90 - 6 * math.sin(query.anim_time * 360))",
+            0
+          ]
+        },
+        "Corners": {
+          "rotation": [
+            0,
+            "(query.anim_time * 90 - 6 * math.sin(query.anim_time * 360))",
+            0
+          ]
+        }
+      }
+    }
+  }
+}

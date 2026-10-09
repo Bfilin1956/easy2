@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t2/rare_earth_extractor/inactive_down",
+		"up": "mctech:block/machine/t2/rare_earth_extractor/inactive_up",
+		"north": "mctech:block/machine/t2/rare_earth_extractor/inactive_south",
+		"south": "mctech:block/machine/t2/rare_earth_extractor/inactive_north",
+		"west": "mctech:block/machine/t2/rare_earth_extractor/inactive_west",
+		"east": "mctech:block/machine/t2/rare_earth_extractor/inactive_east"
+	}
+}

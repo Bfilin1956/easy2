@@ -1,0 +1,120 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "mctech:block/rubber_wood_stripped_horizontal",
+        "x": 90
+      },
+      "when": {
+        "axis": "z",
+        "resin": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/rubber_wood_stripped"
+      },
+      "when": {
+        "axis": "y",
+        "resin": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/rubber_wood_stripped_horizontal",
+        "x": 90,
+        "y": 90
+      },
+      "when": {
+        "axis": "x",
+        "resin": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/rubber_wood_stripped_full"
+      },
+      "when": {
+        "collectable": "true",
+        "facing": "north",
+        "resin": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/rubber_wood_stripped_empty"
+      },
+      "when": {
+        "collectable": "false",
+        "facing": "north",
+        "resin": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/rubber_wood_stripped_full",
+        "y": 90
+      },
+      "when": {
+        "collectable": "true",
+        "facing": "east",
+        "resin": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/rubber_wood_stripped_empty",
+        "y": 90
+      },
+      "when": {
+        "collectable": "false",
+        "facing": "east",
+        "resin": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/rubber_wood_stripped_full",
+        "y": 180
+      },
+      "when": {
+        "collectable": "true",
+        "facing": "south",
+        "resin": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/rubber_wood_stripped_empty",
+        "y": 180
+      },
+      "when": {
+        "collectable": "false",
+        "facing": "south",
+        "resin": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/rubber_wood_stripped_full",
+        "y": 270
+      },
+      "when": {
+        "collectable": "true",
+        "facing": "west",
+        "resin": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/rubber_wood_stripped_empty",
+        "y": 270
+      },
+      "when": {
+        "collectable": "false",
+        "facing": "west",
+        "resin": "true"
+      }
+    }
+  ]
+}

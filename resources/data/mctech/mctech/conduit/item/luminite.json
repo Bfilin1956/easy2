@@ -1,0 +1,8 @@
+{
+  "type": "mctech:item",
+  "description": {
+    "translate": "item.mctech.conduit.item.luminite"
+  },
+  "texture": "mctech:block/conduit/item/luminite",
+  "transfer_rate": 64
+}

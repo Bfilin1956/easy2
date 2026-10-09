@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/machine/t3/base_teleporter/inactive_down",
+    "east": "mctech:block/machine/t3/base_teleporter/inactive_east",
+    "north": "mctech:block/machine/t3/base_teleporter/inactive_north",
+    "particle": "mctech:block/machine/t3/base_teleporter/inactive_north",
+    "south": "mctech:block/machine/t3/base_teleporter/inactive_south",
+    "up": "mctech:block/machine/t3/base_teleporter/inactive_up",
+    "west": "mctech:block/machine/t3/base_teleporter/inactive_west"
+  }
+}

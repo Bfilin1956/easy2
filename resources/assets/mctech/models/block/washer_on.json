@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t3/washer/active_down",
+		"up": "mctech:block/machine/t3/washer/active_up",
+		"north": "mctech:block/machine/t3/washer/active_south",
+		"south": "mctech:block/machine/t3/washer/active_north",
+		"west": "mctech:block/machine/t3/washer/active_west",
+		"east": "mctech:block/machine/t3/washer/active_east"
+	}
+}

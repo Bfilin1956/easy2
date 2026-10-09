@@ -1,0 +1,11 @@
+{
+	"type": "mctech:mass_fabricator",
+	"category": "mass_fabricator",
+	"group": "mass_fabricator",
+	"ingredient": [
+		{
+			"item":"mctech:scrap_box"
+		}
+	],
+	"amplifier": 45000
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:blockrubberwood/log_top_stripped",
+		"up": "mctech:blockrubberwood/log_top_stripped",
+		"north": "mctech:blockrubberwood/log_resin_full_stripped",
+		"south": "mctech:blockrubberwood/log_sides_stripped",
+		"west": "mctech:blockrubberwood/log_sides_stripped",
+		"east": "mctech:blockrubberwood/log_sides_stripped"
+	}
+}

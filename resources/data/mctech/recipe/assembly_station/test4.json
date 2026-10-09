@@ -1,0 +1,31 @@
+{
+  "type": "mctech:assembly_station",
+  "category": "assembly_station",
+  "group": "assembly_station",
+  "crafting_matrix": {
+    "#": {
+      "id": "minecraft:stone",
+      "count": 1
+    }
+  },
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "fluids": [
+    {
+      "id": "minecraft:lava",
+      "amount": 1000
+    }
+  ],
+  "consumables": [
+    "mctech:axes"
+  ],
+  "required_energy": 50,
+  "required_time": 5,
+  "experience": 0,
+  "result": {
+    "id": "minecraft:stone_bricks",
+    "count": 4
+  }
+}

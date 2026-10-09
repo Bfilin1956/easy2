@@ -1,0 +1,9 @@
+{
+  "type": "mctech:eu_conduit",
+  "description": {
+    "translate": "item.mctech.conduit.eu_energy.tin"
+  },
+  "maxVoltage": 6,
+  "texture": "mctech:block/conduit/eu_energy/tin",
+  "transferRate": 5
+}

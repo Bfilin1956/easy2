@@ -1,0 +1,5 @@
+{
+  "parent": "neoforge:item/bucket",
+  "fluid": "mctech:fluid_glowstone_still",
+  "loader": "neoforge:fluid_container"
+}

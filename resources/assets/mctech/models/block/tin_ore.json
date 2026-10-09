@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mctech:block/ore/tin_ore",
+    "particle": "mctech:block/ore/tin_ore"
+  }
+}

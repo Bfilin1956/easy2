@@ -1,0 +1,30 @@
+{
+  "type": "mctech:assembly_station",
+  "category": "assembly_station",
+  "group": "assembly_station",
+  "shapeless": [
+    {
+      "id": "mctech:conduit",
+      "count": 1,
+      "components": {
+        "mctech:conduit": "mctech:eu_energy/nano"
+      }
+    }
+  ],
+  "fluids": [
+    {
+      "id": "minecraft:lava",
+      "amount": 1000
+    }
+  ],
+  "consumables": [
+    "mctech:axes"
+  ],
+  "required_energy": 150,
+  "required_time": 50,
+  "experience": 0,
+  "result": {
+    "id": "minecraft:coal",
+    "count": 8
+  }
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t2/simple_crop_library/active_down",
+		"up": "mctech:block/machine/t2/simple_crop_library/active_up",
+		"north": "mctech:block/machine/t2/simple_crop_library/active_south",
+		"south": "mctech:block/machine/t2/simple_crop_library/active_north",
+		"west": "mctech:block/machine/t2/simple_crop_library/active_west",
+		"east": "mctech:block/machine/t2/simple_crop_library/active_east"
+	}
+}

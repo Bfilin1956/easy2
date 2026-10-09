@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:redstone_block"
+    },
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "I": {
+      "type": "mctech:resource_ingredient",
+      "count": 1,
+      "id": "kubejs:rubber_gasket"
+    },
+    "T": {
+      "item": "minecraft:torch"
+    }
+  },
+  "pattern": [
+    "III",
+    "TCB",
+    "III"
+  ],
+  "result": {
+    "components": {
+      "mctech:conduit": "mctech:redstone"
+    },
+    "count": 4,
+    "id": "mctech:conduit"
+  }
+}

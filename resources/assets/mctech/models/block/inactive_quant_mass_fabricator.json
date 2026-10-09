@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/mass_fabricator/t6/inactive_down",
+    "east": "mctech:block/mass_fabricator/t6/inactive_east",
+    "north": "mctech:block/mass_fabricator/t6/inactive_north",
+    "particle": "mctech:block/mass_fabricator/t6/inactive_north",
+    "south": "mctech:block/mass_fabricator/t6/inactive_south",
+    "up": "mctech:block/mass_fabricator/t6/inactive_up",
+    "west": "mctech:block/mass_fabricator/t6/inactive_west"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "values": [
+    "mctech:amethyst_ore",
+    "mctech:deepslate_amethyst_ore",
+    "mctech:tin_ore",
+    "mctech:deepslate_tin_ore",
+    "mctech:silver_ore",
+    "mctech:silver_ore_nether",
+    "mctech:deepslate_silver_ore",
+    "mctech:aluminium_ore_nether",
+    "mctech:uranium_ore",
+    "mctech:deepslate_uranium_ore",
+    "mctech:rubidium_ore",
+    "mctech:titanium_ore",
+    "mctech:bedrock_amethyst_ore",
+    "mctech:bedrock_silver_ore",
+    "mctech:bedrock_tin_ore",
+    "mctech:bedrock_uranium_ore",
+    "mctech:bedrock_netherite_ore"
+  ]
+}

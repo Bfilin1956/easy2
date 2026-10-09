@@ -1,0 +1,13 @@
+{
+  "name": "fuel",
+  "items": [
+    "mctech:consumable_uranium_fuel",
+    "mctech:consumable_combined_uranium_fuel",
+    "mctech:consumable_isotopic_fuel",
+    "mctech:consumable_composite_fuel",
+    "mctech:consumable_nano_fuel",
+    "mctech:consumable_quantum_fuel",
+    "mctech:consumable_singularity_fuel",
+    "mctech:consumable_rubidium_fuel"
+  ]
+}

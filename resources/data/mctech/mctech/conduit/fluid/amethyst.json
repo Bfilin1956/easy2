@@ -1,0 +1,9 @@
+{
+  "type": "mctech:fluid",
+  "description": {
+    "translate": "item.mctech.conduit.fluid.amethyst"
+  },
+  "is_multi_fluid": false,
+  "texture": "mctech:block/conduit/fluid/amethyst",
+  "transfer_rate": 1600
+}

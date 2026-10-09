@@ -1,0 +1,16 @@
+{
+  "type": "mctech:canner_fill",
+  "cookingtime": 400,
+  "energy": 1024.0,
+  "ingredient0": {
+    "item": "mctech:ingot_uranium_enriched_blaze"
+  },
+  "ingredient1": {
+    "item": "mctech:cell_empty"
+  },
+  "input_count": 1,
+  "result": {
+    "count": 1,
+    "id": "mctech:uranium_rod_blaze_single"
+  }
+}

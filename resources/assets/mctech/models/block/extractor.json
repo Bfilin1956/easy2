@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t2/extractor/inactive_down",
+		"up": "mctech:block/machine/t2/extractor/inactive_up",
+		"north": "mctech:block/machine/t2/extractor/inactive_south",
+		"south": "mctech:block/machine/t2/extractor/inactive_north",
+		"west": "mctech:block/machine/t2/extractor/inactive_west",
+		"east": "mctech:block/machine/t2/extractor/inactive_east"
+	}
+}

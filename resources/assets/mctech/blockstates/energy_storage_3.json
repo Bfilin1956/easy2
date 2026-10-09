@@ -1,0 +1,105 @@
+{
+	
+	"variants": {
+		"facing=east,active=0": {
+			"model": "mctech:block/energy_storage_3",
+			"y": 90
+		},
+		"facing=east,active=1": {
+			"model": "mctech:block/energy_storage_3_on",
+			"y": 90
+		},
+		"facing=east,active=2": {
+			"model": "mctech:block/energy_storage_3_on",
+			"y": 90
+		},
+		"facing=east,active=3": {
+			"model": "mctech:block/energy_storage_3_on",
+			"y": 90
+		},
+		"facing=north,active=0": {
+			"model": "mctech:block/energy_storage_3"
+		},
+		"facing=north,active=1": {
+			"model": "mctech:block/energy_storage_3_on"
+		},
+		"facing=north,active=2": {
+			"model": "mctech:block/energy_storage_3_on"
+		},
+		"facing=north,active=3": {
+			"model": "mctech:block/energy_storage_3_on"
+		},
+		"facing=south,active=0": {
+			"model": "mctech:block/energy_storage_3",
+			"y": 180
+		},
+		"facing=south,active=1": {
+			"model": "mctech:block/energy_storage_3_on",
+			"y": 180
+		},
+		"facing=south,active=2": {
+			"model": "mctech:block/energy_storage_3_on",
+			"y": 180
+		},
+		"facing=south,active=3": {
+			"model": "mctech:block/energy_storage_3_on",
+			"y": 180
+		},
+		"facing=west,active=0": {
+			"model": "mctech:block/energy_storage_3",
+			"y": 270
+		},
+		"facing=west,active=1": {
+			"model": "mctech:block/energy_storage_3_on",
+			"y": 270
+		},
+		"facing=west,active=2": {
+			"model": "mctech:block/energy_storage_3_on",
+			"y": 270
+		},
+		"facing=west,active=3": {
+			"model": "mctech:block/energy_storage_3_on",
+			"y": 270
+		},
+		"facing=down,active=0": {
+			"model": "mctech:block/energy_storage_3",
+			"y": 90,
+			"x": 90
+		},
+		"facing=down,active=1": {
+			"model": "mctech:block/energy_storage_3_on",
+			"y": 90,
+			"x": 90
+		},
+		"facing=down,active=2": {
+			"model": "mctech:block/energy_storage_3_on",
+			"y": 90,
+			"x": 90
+		},
+		"facing=down,active=3": {
+			"model": "mctech:block/energy_storage_3_on",
+			"y": 90,
+			"x": 90
+		},
+		"facing=up,active=0": {
+			"model": "mctech:block/energy_storage_3",
+			"y": 90,
+			"x": 270
+		},
+		"facing=up,active=1": {
+			"model": "mctech:block/energy_storage_3_on",
+			"y": 90,
+			"x": 270
+		},
+		"facing=up,active=2": {
+			"model": "mctech:block/energy_storage_3_on",
+			"y": 90,
+			"x": 270
+		},
+		"facing=up,active=3": {
+			"model": "mctech:block/energy_storage_3_on",
+			"y": 90,
+			"x": 270
+		}
+	}
+}

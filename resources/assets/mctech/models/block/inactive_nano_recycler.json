@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/nano_recycler/inactive_down",
+    "east": "mctech:block/nano_recycler/inactive_east",
+    "north": "mctech:block/nano_recycler/inactive_north",
+    "particle": "mctech:block/nano_recycler/inactive_north",
+    "south": "mctech:block/nano_recycler/inactive_south",
+    "up": "mctech:block/nano_recycler/inactive_up",
+    "west": "mctech:block/nano_recycler/inactive_west"
+  }
+}

@@ -1,0 +1,46 @@
+{	
+	"variants": {
+		"facing=east,active=false": {
+			"model": "mctech:block/iron_furnace",
+			"y": 90
+		},
+		"facing=east,active=true": {
+			"model": "mctech:block/iron_furnace_on",
+			"y": 90
+		},
+		"facing=north,active=false": {
+			"model": "mctech:block/iron_furnace"
+		},
+		"facing=north,active=true": {
+			"model": "mctech:block/iron_furnace_on"
+		},
+		"facing=south,active=false": {
+			"model": "mctech:block/iron_furnace",
+			"y": 180
+		},
+		"facing=south,active=true": {
+			"model": "mctech:block/iron_furnace_on",
+			"y": 180
+		},
+		"facing=west,active=false": {
+			"model": "mctech:block/iron_furnace",
+			"y": 270
+		},
+		"facing=west,active=true": {
+			"model": "mctech:block/iron_furnace_on",
+			"y": 270
+		},
+		"facing=down,active=false": {
+			"model": "mctech:block/iron_furnace"
+		},
+		"facing=down,active=true": {
+			"model": "mctech:block/iron_furnace_on"
+		},
+		"facing=up,active=false": {
+			"model": "mctech:block/iron_furnace"
+		},
+		"facing=up,active=true": {
+			"model": "mctech:block/iron_furnace_on"
+		}
+	}
+}

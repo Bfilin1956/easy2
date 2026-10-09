@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"": {
+			"model": "mctech:block/reactor_chamber"
+		}
+	}
+}

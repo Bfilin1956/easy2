@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t2/electric_wood_gasificator/inactive_down",
+		"up": "mctech:block/machine/t2/electric_wood_gasificator/inactive_up",
+		"north": "mctech:block/machine/t2/electric_wood_gasificator/inactive_south",
+		"south": "mctech:block/machine/t2/electric_wood_gasificator/inactive_north",
+		"west": "mctech:block/machine/t2/electric_wood_gasificator/inactive_west",
+		"east": "mctech:block/machine/t2/electric_wood_gasificator/inactive_east"
+	}
+}

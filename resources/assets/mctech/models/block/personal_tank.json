@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/personal/tank/down",
+		"up": "mctech:block/personal/tank/up",
+		"north": "mctech:block/personal/tank/south",
+		"south": "mctech:block/personal/tank/north",
+		"west": "mctech:block/personal/tank/west",
+		"east": "mctech:block/personal/tank/east"
+	}
+}

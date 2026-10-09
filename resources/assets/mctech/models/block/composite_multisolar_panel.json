@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/electric/panel/composite_multisolar_panel/bottom",
+		"up": "mctech:block/electric/panel/composite_multisolar_panel/top",
+		"north": "mctech:block/electric/panel/composite_multisolar_panel/side",
+		"south": "mctech:block/electric/panel/composite_multisolar_panel/side",
+		"west": "mctech:block/electric/panel/composite_multisolar_panel/side",
+		"east": "mctech:block/electric/panel/composite_multisolar_panel/side"
+	}
+}

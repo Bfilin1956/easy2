@@ -1,0 +1,17 @@
+{
+  "parent": "mctech:block/molecular_converter",
+  "display": {
+    "fixed": {
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ],
+      "translation": [
+        0,
+        -4,
+        0
+      ]
+    }
+  }
+}

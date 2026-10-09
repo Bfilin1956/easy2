@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "bottom": "mctech:block/electric/generator/reactor_chamber/t2/down",
+    "front": "mctech:block/electric/generator/reactor_chamber/t2/side",
+    "side": "mctech:block/electric/generator/reactor_chamber/t2/side",
+    "top": "mctech:block/electric/generator/reactor_chamber/t2/up"
+  }
+}

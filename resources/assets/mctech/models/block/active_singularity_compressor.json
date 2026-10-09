@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/compressor/t7/active_down",
+    "east": "mctech:block/compressor/t7/active_east",
+    "north": "mctech:block/compressor/t7/active_north",
+    "particle": "mctech:block/compressor/t7/active_north",
+    "south": "mctech:block/compressor/t7/active_south",
+    "up": "mctech:block/compressor/t7/active_up",
+    "west": "mctech:block/compressor/t7/active_west"
+  }
+}

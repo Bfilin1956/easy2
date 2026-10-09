@@ -1,0 +1,10 @@
+{
+  "type": "mctech:fluid",
+  "description": {
+    "translate": "item.mctech.conduit.fluid.sapphire"
+  },
+  "does_support_priority": true,
+  "is_multi_fluid": true,
+  "texture": "mctech:block/conduit/fluid/sapphire",
+  "transfer_rate": 204800
+}

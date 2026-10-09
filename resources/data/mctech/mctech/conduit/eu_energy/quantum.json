@@ -1,0 +1,9 @@
+{
+  "type": "mctech:eu_conduit",
+  "description": {
+    "translate": "item.mctech.conduit.eu_energy.quantum"
+  },
+  "maxVoltage": 16385,
+  "texture": "mctech:block/conduit/eu_energy/quantum",
+  "transferRate": 16384
+}

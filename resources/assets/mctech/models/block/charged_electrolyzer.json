@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t3/charged_electrolyzer/inactive_down",
+		"up": "mctech:block/machine/t3/charged_electrolyzer/inactive_up",
+		"north": "mctech:block/machine/t3/charged_electrolyzer/inactive_south",
+		"south": "mctech:block/machine/t3/charged_electrolyzer/inactive_north",
+		"west": "mctech:block/machine/t3/charged_electrolyzer/inactive_west",
+		"east": "mctech:block/machine/t3/charged_electrolyzer/inactive_east"
+	}
+}

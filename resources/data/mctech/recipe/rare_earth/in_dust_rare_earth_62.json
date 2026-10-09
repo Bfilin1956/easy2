@@ -1,0 +1,21 @@
+{
+	"type": "mctech:rare_earth_in",
+	"category": "rare_earth_in",
+	"group": "rare_earth_in",
+	"ingredient": [
+		{
+			"item":"minecraft:granite"
+		},
+		{
+			"item":"minecraft:diorite"
+		},
+		{
+			"item":"minecraft:andesite"
+		},
+		{
+			"item":"minecraft:tuff"
+		}
+	],
+	"amount": 62.5,
+	"material": "mctech:dust_rare_earth"
+}

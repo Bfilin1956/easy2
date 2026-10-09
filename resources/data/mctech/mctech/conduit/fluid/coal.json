@@ -1,0 +1,9 @@
+{
+  "type": "mctech:fluid",
+  "description": {
+    "translate": "item.mctech.conduit.fluid.coal"
+  },
+  "is_multi_fluid": false,
+  "texture": "mctech:block/conduit/fluid/coal",
+  "transfer_rate": 200
+}

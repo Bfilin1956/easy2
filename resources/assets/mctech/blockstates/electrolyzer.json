@@ -1,0 +1,46 @@
+{	
+	"variants": {
+		"facing=east,active=false": {
+			"model": "mctech:block/electrolyzer",
+			"y": 90
+		},
+		"facing=east,active=true": {
+			"model": "mctech:block/electrolyzer_on",
+			"y": 90
+		},
+		"facing=north,active=false": {
+			"model": "mctech:block/electrolyzer"
+		},
+		"facing=north,active=true": {
+			"model": "mctech:block/electrolyzer_on"
+		},
+		"facing=south,active=false": {
+			"model": "mctech:block/electrolyzer",
+			"y": 180
+		},
+		"facing=south,active=true": {
+			"model": "mctech:block/electrolyzer_on",
+			"y": 180
+		},
+		"facing=west,active=false": {
+			"model": "mctech:block/electrolyzer",
+			"y": 270
+		},
+		"facing=west,active=true": {
+			"model": "mctech:block/electrolyzer_on",
+			"y": 270
+		},
+		"facing=down,active=false": {
+			"model": "mctech:block/electrolyzer"
+		},
+		"facing=down,active=true": {
+			"model": "mctech:block/electrolyzer_on"
+		},
+		"facing=up,active=false": {
+			"model": "mctech:block/electrolyzer"
+		},
+		"facing=up,active=true": {
+			"model": "mctech:block/electrolyzer_on"
+		}
+	}
+}

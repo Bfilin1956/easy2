@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/stone/iron_furnace/inactive_down",
+		"up": "mctech:block/machine/stone/iron_furnace/inactive_up",
+		"north": "mctech:block/machine/stone/iron_furnace/inactive_south",
+		"south": "mctech:block/machine/stone/iron_furnace/inactive_north",
+		"west": "mctech:block/machine/stone/iron_furnace/inactive_west",
+		"east": "mctech:block/machine/stone/iron_furnace/inactive_east"
+	}
+}

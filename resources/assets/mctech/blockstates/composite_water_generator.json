@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mctech:block/composite_water_generator"
+    }
+  }
+}

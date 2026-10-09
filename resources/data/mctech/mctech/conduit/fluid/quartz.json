@@ -1,0 +1,9 @@
+{
+  "type": "mctech:fluid",
+  "description": {
+    "translate": "item.mctech.conduit.fluid.quartz"
+  },
+  "is_multi_fluid": false,
+  "texture": "mctech:block/conduit/fluid/quartz",
+  "transfer_rate": 3200
+}

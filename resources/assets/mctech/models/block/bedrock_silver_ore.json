@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "mctech:block/ore/silver/silver_ore_down",
+    "particle": "mctech:block/ore/silver/silver_ore_side",
+    "side": "mctech:block/ore/silver/silver_ore_side",
+    "top": "mctech:block/ore/silver/silver_ore_up"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/crystal_synth/t4/inactive_down",
+    "east": "mctech:block/crystal_synth/t4/inactive_east",
+    "north": "mctech:block/crystal_synth/t4/inactive_north",
+    "particle": "mctech:block/crystal_synth/t4/inactive_north",
+    "south": "mctech:block/crystal_synth/t4/inactive_south",
+    "up": "mctech:block/crystal_synth/t4/inactive_up",
+    "west": "mctech:block/crystal_synth/t4/inactive_west"
+  }
+}

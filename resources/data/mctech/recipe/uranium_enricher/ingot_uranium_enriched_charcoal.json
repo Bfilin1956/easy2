@@ -1,0 +1,19 @@
+{
+	"type": "mctech:uranium_enricher",
+	"category": "uranium_enricher",
+	"group": "uranium_enricher",
+	"ingredient": [
+		{
+			"item":"mctech:ingot_uranium"
+		}
+	],
+	"input_count": 1,
+	"energy": 20,
+	"cookingtime": 1000,
+	"points": 100,
+	"material": "minecraft:charcoal",
+	"result": {
+		"count": 1,
+		"id": "mctech:ingot_uranium_enriched_charcoal"
+	}
+}

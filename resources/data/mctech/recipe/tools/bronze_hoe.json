@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "mctech:ingot_bronze"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "BB ",
+    " I ",
+    " I "
+  ],
+  "result": {
+    "count": 1,
+    "id": "mctech:bronze_hoe"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "mctech:fluid",
+  "description": {
+    "translate": "item.mctech.conduit.fluid.redstone"
+  },
+  "is_multi_fluid": false,
+  "texture": "mctech:block/conduit/fluid/redstone",
+  "transfer_rate": 400
+}

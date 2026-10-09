@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/electric/energy_storage/tier_9/top",
+		"up": "mctech:block/electric/energy_storage/tier_9/bottom",
+		"north": "mctech:block/electric/energy_storage/tier_9/front",
+		"south": "mctech:block/electric/energy_storage/tier_9/side",
+		"west": "mctech:block/electric/energy_storage/tier_9/side",
+		"east": "mctech:block/electric/energy_storage/tier_9/side"
+	}
+}

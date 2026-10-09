@@ -1,0 +1,9 @@
+{
+  "type": "mctech:eu_conduit",
+  "description": {
+    "translate": "item.mctech.conduit.eu_energy.copper"
+  },
+  "maxVoltage": 33,
+  "texture": "mctech:block/conduit/eu_energy/copper",
+  "transferRate": 32
+}

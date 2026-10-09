@@ -1,0 +1,165 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_off_t2"
+      },
+      "when": {
+        "connected": "false"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_white_t2"
+      },
+      "when": {
+        "color": "0",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_light_gray_t2"
+      },
+      "when": {
+        "color": "1",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_gray_t2"
+      },
+      "when": {
+        "color": "2",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_black_t2"
+      },
+      "when": {
+        "color": "3",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_lime_t2"
+      },
+      "when": {
+        "color": "4",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_yellow_t2"
+      },
+      "when": {
+        "color": "5",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_orange_t2"
+      },
+      "when": {
+        "color": "6",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_brown_t2"
+      },
+      "when": {
+        "color": "7",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_red_t2"
+      },
+      "when": {
+        "color": "8",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_pink_t2"
+      },
+      "when": {
+        "color": "9",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_magenta_t2"
+      },
+      "when": {
+        "color": "10",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_purple_t2"
+      },
+      "when": {
+        "color": "11",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_blue_t2"
+      },
+      "when": {
+        "color": "12",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_light_blue_t2"
+      },
+      "when": {
+        "color": "13",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_cyan_t2"
+      },
+      "when": {
+        "color": "14",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_green_t2"
+      },
+      "when": {
+        "color": "15",
+        "connected": "true"
+      }
+    },
+    {
+      "apply": {
+        "model": "mctech:block/wireless_connect_fluix_t2"
+      },
+      "when": {
+        "color": "16",
+        "connected": "true"
+      }
+    }
+  ]
+}

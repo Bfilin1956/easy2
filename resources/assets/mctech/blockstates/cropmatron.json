@@ -1,0 +1,46 @@
+{	
+	"variants": {
+		"facing=east,active=false": {
+			"model": "mctech:block/cropmatron",
+			"y": 90
+		},
+		"facing=east,active=true": {
+			"model": "mctech:block/cropmatron_on",
+			"y": 90
+		},
+		"facing=north,active=false": {
+			"model": "mctech:block/cropmatron"
+		},
+		"facing=north,active=true": {
+			"model": "mctech:block/cropmatron_on"
+		},
+		"facing=south,active=false": {
+			"model": "mctech:block/cropmatron",
+			"y": 180
+		},
+		"facing=south,active=true": {
+			"model": "mctech:block/cropmatron_on",
+			"y": 180
+		},
+		"facing=west,active=false": {
+			"model": "mctech:block/cropmatron",
+			"y": 270
+		},
+		"facing=west,active=true": {
+			"model": "mctech:block/cropmatron_on",
+			"y": 270
+		},
+		"facing=down,active=false": {
+			"model": "mctech:block/cropmatron"
+		},
+		"facing=down,active=true": {
+			"model": "mctech:block/cropmatron_on"
+		},
+		"facing=up,active=false": {
+			"model": "mctech:block/cropmatron"
+		},
+		"facing=up,active=true": {
+			"model": "mctech:block/cropmatron_on"
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+  "vertex": "blit_screen",
+  "fragment": "mctech:bloom/post",
+  "samplers": [
+    {
+      "name": "DiffuseSampler"
+    },
+    {
+      "name": "ScreenSampler"
+    },
+    {
+      "name": "BaseSampler"
+    }
+  ],
+  "uniforms": [
+    {
+      "name": "BloomIntensity",
+      "type": "float",
+      "count": 1,
+      "values": [
+        0.66
+      ]
+    }
+  ]
+}

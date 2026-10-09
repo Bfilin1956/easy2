@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "minecraft:comparator"
+    },
+    "I": {
+      "item": "minecraft:torch"
+    },
+    "R": {
+      "type": "mctech:resource_ingredient",
+      "count": 1,
+      "id": "kubejs:rubber_gasket"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "ICI",
+    "RRR"
+  ],
+  "result": {
+    "components": {
+      "mctech:conduit": "mctech:heat"
+    },
+    "count": 3,
+    "id": "mctech:conduit"
+  }
+}

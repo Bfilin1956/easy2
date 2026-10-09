@@ -1,0 +1,9 @@
+{
+  "type": "mctech:eu_conduit",
+  "description": {
+    "translate": "item.mctech.conduit.eu_energy.netherite"
+  },
+  "maxVoltage": 2049,
+  "texture": "mctech:block/conduit/eu_energy/netherite",
+  "transferRate": 2048
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/electric/generator/basic_steam_turbine/inactive_down",
+		"up": "mctech:block/electric/generator/basic_steam_turbine/inactive_up",
+		"north": "mctech:block/electric/generator/basic_steam_turbine/inactive_south",
+		"south": "mctech:block/electric/generator/basic_steam_turbine/inactive_north",
+		"west": "mctech:block/electric/generator/basic_steam_turbine/inactive_west",
+		"east": "mctech:block/electric/generator/basic_steam_turbine/inactive_east"
+	}
+}

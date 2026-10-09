@@ -1,0 +1,19 @@
+{
+  "type": "mctech:mass_fabricator",
+  "ingredient": {
+    "count": 1,
+    "ingredient": {
+      "item": "mctech:scrap"
+    }
+  },
+  "moduleLevel": 2,
+  "requiredEnergy": 75000000,
+  "result": {
+    "count": 1,
+    "id": "mctech:uumatter3"
+  },
+  "resultFluid": {
+    "amount": 100,
+    "id": "mctech:fluid_liquid_matter_still"
+  }
+}

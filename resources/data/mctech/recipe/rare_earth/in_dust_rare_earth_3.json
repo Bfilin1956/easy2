@@ -1,0 +1,15 @@
+{
+	"type": "mctech:rare_earth_in",
+	"category": "rare_earth_in",
+	"group": "rare_earth_in",
+	"ingredient": [
+		{
+			"item":"minecraft:stone"
+		},
+		{
+			"item":"minecraft:deepslate"
+		}
+	],
+	"amount": 3.125,
+	"material": "mctech:dust_rare_earth"
+}

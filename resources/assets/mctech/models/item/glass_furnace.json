@@ -1,0 +1,17 @@
+{
+  "parent": "mctech:block/glass_furnace",
+  "display": {
+    "fixed": {
+      "rotation": [
+        0,
+        -180,
+        0
+      ],
+      "scale": [
+        0.16667,
+        0.16667,
+        0.16667
+      ]
+    }
+  }
+}

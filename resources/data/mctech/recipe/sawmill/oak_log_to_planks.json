@@ -1,0 +1,18 @@
+{
+	"type": "mctech:sawmill",
+	"category": "sawmill",
+	"group": "sawmill",
+	"ingredient": [
+		{
+			"item":"minecraft:oak_log"
+		}
+	],
+	"energy": 10,
+	"cookingtime": 80.0,
+	"stone": true,
+	"experience": 0.0,
+	"result": {
+		"count": 6,
+		"id": "minecraft:oak_planks"
+	}
+}

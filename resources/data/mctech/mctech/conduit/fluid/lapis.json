@@ -1,0 +1,9 @@
+{
+  "type": "mctech:fluid",
+  "description": {
+    "translate": "item.mctech.conduit.fluid.lapis"
+  },
+  "is_multi_fluid": false,
+  "texture": "mctech:block/conduit/fluid/lapis",
+  "transfer_rate": 800
+}

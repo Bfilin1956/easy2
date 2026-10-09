@@ -1,0 +1,17 @@
+{
+	"textures": {
+		"0": "mctech:block/misc/treetap_and_bucket",
+		"particle": "mctech:block/misc/treetap_and_bucket"
+	},
+	"elements": [
+		{
+			"from": [5, 4, 5],
+			"to": [11, 4, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [5, 4, 5]},
+			"faces": {
+				"up": {"uv": [0, 13, 3, 16], "texture": "#0"},
+				"down": {"uv": [0, 13, 3, 16], "texture": "#0"}
+			}
+		}
+	]
+}

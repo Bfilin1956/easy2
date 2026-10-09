@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/rare_extractor/t3/inactive_down",
+    "east": "mctech:block/rare_extractor/t3/inactive_east",
+    "north": "mctech:block/rare_extractor/t3/inactive_north",
+    "particle": "mctech:block/rare_extractor/t3/inactive_north",
+    "south": "mctech:block/rare_extractor/t3/inactive_south",
+    "up": "mctech:block/rare_extractor/t3/inactive_up",
+    "west": "mctech:block/rare_extractor/t3/inactive_west"
+  }
+}

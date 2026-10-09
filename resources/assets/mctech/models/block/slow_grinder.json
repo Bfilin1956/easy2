@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t3/slow_grinder/inactive_down",
+		"up": "mctech:block/machine/t3/slow_grinder/inactive_up",
+		"north": "mctech:block/machine/t3/slow_grinder/inactive_south",
+		"south": "mctech:block/machine/t3/slow_grinder/inactive_north",
+		"west": "mctech:block/machine/t3/slow_grinder/inactive_west",
+		"east": "mctech:block/machine/t3/slow_grinder/inactive_east"
+	}
+}

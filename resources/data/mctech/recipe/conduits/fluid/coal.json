@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "tag": "minecraft:coals"
+    },
+    "P": {
+      "item": "minecraft:sticky_piston"
+    },
+    "R": {
+      "item": "minecraft:repeater"
+    }
+  },
+  "pattern": [
+    "CCC",
+    "RPR",
+    "CCC"
+  ],
+  "result": {
+    "components": {
+      "mctech:conduit": "mctech:fluid/coal"
+    },
+    "count": 6,
+    "id": "mctech:conduit"
+  }
+}

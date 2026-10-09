@@ -1,0 +1,79 @@
+{
+	"multipart": [
+		{
+			"apply": {
+				"model": "mctech:block/treetap_and_bucket"
+			},
+			"when": {
+				"facing": "north"
+			}
+		},
+		{
+			"apply": {
+				"model": "mctech:block/treetap_and_bucket",
+				"y": 180
+			},
+			"when": {
+				"facing": "south"
+			}
+		},
+		{
+			"apply": {
+				"model": "mctech:block/treetap_and_bucket",
+				"y": 90
+			},
+			"when": {
+				"facing": "east"
+			}
+		},
+		{
+			"apply": {
+				"model": "mctech:block/treetap_and_bucket",
+				"y": 270
+			},
+			"when": {
+				"facing": "west"
+			}
+		},
+		{
+			"apply": {
+				"model": "mctech:block/treetap_and_bucket_1"
+			},
+			"when": {
+				"fill_stage": "1"
+			}
+		},
+		{
+			"apply": {
+				"model": "mctech:block/treetap_and_bucket_2"
+			},
+			"when": {
+				"fill_stage": "2"
+			}
+		},
+		{
+			"apply": {
+				"model": "mctech:block/treetap_and_bucket_3"
+			},
+			"when": {
+				"fill_stage": "3"
+			}
+		},
+		{
+			"apply": {
+				"model": "mctech:block/treetap_and_bucket_4"
+			},
+			"when": {
+				"fill_stage": "4"
+			}
+		},
+		{
+			"apply": {
+				"model": "mctech:block/treetap_and_bucket_5"
+			},
+			"when": {
+				"fill_stage": "5"
+			}
+		}
+	]
+}

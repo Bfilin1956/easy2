@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mctech:block/pattern_transformation_assembler_encoder"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "mctech:item",
+  "description": {
+    "translate": "item.mctech.conduit.item.zircon"
+  },
+  "texture": "mctech:block/conduit/item/zircon",
+  "ticks_per_cycle": 5,
+  "transfer_cycles": 4,
+  "transfer_rate": 64
+}

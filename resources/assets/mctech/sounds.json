@@ -1,0 +1,217 @@
+{
+  "sounds/generators/generator_operating.ogg": {
+    "sounds": [
+      "mctech:generators/generator_operating"
+    ]
+  },
+  "sounds/generators/geothermal_operating.ogg": {
+    "sounds": [
+      "mctech:generators/geothermal_operating"
+    ]
+  },
+  "sounds/generators/reactor/geiger_high.ogg": {
+    "sounds": [
+      "mctech:generators/reactor/geiger_high"
+    ]
+  },
+  "sounds/generators/reactor/geiger_low.ogg": {
+    "sounds": [
+      "mctech:generators/reactor/geiger_low"
+    ]
+  },
+  "sounds/generators/reactor/geiger_med.ogg": {
+    "sounds": [
+      "mctech:generators/reactor/geiger_med"
+    ]
+  },
+  "sounds/generators/reactor/nuclear_reactor_operating.ogg": {
+    "sounds": [
+      "mctech:generators/reactor/nuclear_reactor_operating"
+    ]
+  },
+  "sounds/generators/watermill_operating.ogg": {
+    "sounds": [
+      "mctech:generators/watermill_operating"
+    ]
+  },
+  "sounds/generators/windmill_operating.ogg": {
+    "sounds": [
+      "mctech:generators/windmill_operating"
+    ]
+  },
+  "sounds/machines/atomic_smelter/overheat.ogg": {
+    "sounds": [
+      "mctech:machines/atomic_smelter/overheat"
+    ]
+  },
+  "sounds/machines/base/compressor_operating.ogg": {
+    "sounds": [
+      "mctech:machines/base/compressor_operating"
+    ]
+  },
+  "sounds/machines/base/electric_furnace_operating.ogg": {
+    "sounds": [
+      "mctech:machines/base/electric_furnace_operating"
+    ]
+  },
+  "sounds/machines/base/extractor_operating.ogg": {
+    "sounds": [
+      "mctech:machines/base/extractor_operating"
+    ]
+  },
+  "sounds/machines/base/interruption.ogg": {
+    "sounds": [
+      "mctech:machines/base/interruption"
+    ]
+  },
+  "sounds/machines/base/iron_furnace_operating.ogg": {
+    "sounds": [
+      "mctech:machines/base/iron_furnace_operating"
+    ]
+  },
+  "sounds/machines/base/macerator_operating.ogg": {
+    "sounds": [
+      "mctech:machines/base/macerator_operating"
+    ]
+  },
+  "sounds/machines/base/pump_operating.ogg": {
+    "sounds": [
+      "mctech:machines/base/pump_operating"
+    ]
+  },
+  "sounds/machines/base/recycler_operating.ogg": {
+    "sounds": [
+      "mctech:machines/base/recycler_operating"
+    ]
+  },
+  "sounds/machines/electrolyzer_operating.ogg": {
+    "sounds": [
+      "mctech:machines/electrolyzer_operating"
+    ]
+  },
+  "sounds/machines/liquid_generator/processing.ogg": {
+    "sounds": [
+      "mctech:machines/liquid_generator/processing"
+    ]
+  },
+  "sounds/machines/magnetizer_operating.ogg": {
+    "sounds": [
+      "mctech:machines/magnetizer_operating"
+    ]
+  },
+  "sounds/machines/mass_fab/massfab_operating.ogg": {
+    "sounds": [
+      "mctech:machines/mass_fab/massfab_operating"
+    ]
+  },
+  "sounds/machines/mass_fab/massfab_solo_operating.ogg": {
+    "sounds": [
+      "mctech:machines/mass_fab/massfab_solo_operating"
+    ]
+  },
+  "sounds/machines/miner_operating.ogg": {
+    "sounds": [
+      "mctech:machines/miner_operating"
+    ]
+  },
+  "sounds/machines/teleport.ogg": {
+    "sounds": [
+      "mctech:machines/teleport"
+    ]
+  },
+  "sounds/misc/pop.ogg": {
+    "sounds": [
+      "mctech:misc/pop"
+    ]
+  },
+  "sounds/tools/battery.ogg": {
+    "sounds": [
+      "mctech:tools/battery"
+    ]
+  },
+  "sounds/tools/chainsaw/chainsaw_idle.ogg": {
+    "sounds": [
+      "mctech:tools/chainsaw/chainsaw_idle"
+    ]
+  },
+  "sounds/tools/chainsaw/chainsaw_stop.ogg": {
+    "sounds": [
+      "mctech:tools/chainsaw/chainsaw_stop"
+    ]
+  },
+  "sounds/tools/chainsaw/chainsaw_use_one.ogg": {
+    "sounds": [
+      "mctech:tools/chainsaw/chainsaw_use_one"
+    ]
+  },
+  "sounds/tools/chainsaw/chainsaw_use_two.ogg": {
+    "sounds": [
+      "mctech:tools/chainsaw/chainsaw_use_two"
+    ]
+  },
+  "sounds/tools/cutter.ogg": {
+    "sounds": [
+      "mctech:tools/cutter"
+    ]
+  },
+  "sounds/tools/destroyer/mode_switch.ogg": {
+    "sounds": [
+      "mctech:tools/destroyer/mode_switch"
+    ]
+  },
+  "sounds/tools/destroyer/right_action.ogg": {
+    "sounds": [
+      "mctech:tools/destroyer/right_action"
+    ]
+  },
+  "sounds/tools/destroyer/right_action_variant.ogg": {
+    "sounds": [
+      "mctech:tools/destroyer/right_action_variant"
+    ]
+  },
+  "sounds/tools/drill/drill_hard.ogg": {
+    "sounds": [
+      "mctech:tools/drill/drill_hard"
+    ]
+  },
+  "sounds/tools/drill/drill_soft.ogg": {
+    "sounds": [
+      "mctech:tools/drill/drill_soft"
+    ]
+  },
+  "sounds/tools/drill/drill_use_loop.ogg": {
+    "sounds": [
+      "mctech:tools/drill/drill_use_loop"
+    ]
+  },
+  "sounds/tools/jetpack/jetpack_fire.ogg": {
+    "sounds": [
+      "mctech:tools/jetpack/jetpack_fire"
+    ]
+  },
+  "sounds/tools/jetpack/jetpack_loop.ogg": {
+    "sounds": [
+      "mctech:tools/jetpack/jetpack_loop"
+    ]
+  },
+  "sounds/tools/painter.ogg": {
+    "sounds": [
+      "mctech:tools/painter"
+    ]
+  },
+  "sounds/tools/scanner.ogg": {
+    "sounds": [
+      "mctech:tools/scanner"
+    ]
+  },
+  "sounds/tools/treetap.ogg": {
+    "sounds": [
+      "mctech:tools/treetap"
+    ]
+  },
+  "sounds/tools/wrench.ogg": {
+    "sounds": [
+      "mctech:tools/wrench"
+    ]
+  }
+}

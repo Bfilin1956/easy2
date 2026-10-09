@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/quantum_refinery/active_down",
+    "east": "mctech:block/quantum_refinery/active_east",
+    "north": "mctech:block/quantum_refinery/active_north",
+    "particle": "mctech:block/quantum_refinery/active_north",
+    "south": "mctech:block/quantum_refinery/active_south",
+    "up": "mctech:block/quantum_refinery/active_up",
+    "west": "mctech:block/quantum_refinery/active_west"
+  }
+}

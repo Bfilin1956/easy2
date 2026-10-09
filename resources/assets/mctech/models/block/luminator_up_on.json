@@ -1,0 +1,6 @@
+{
+	"parent": "mctech:block/luminator_up",
+	"textures": {
+		"tex": "mctech:block/electric/luminator/luminator_on"
+	}
+}

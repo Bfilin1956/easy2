@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "type": "mctech:resource_ingredient",
+      "count": 1,
+      "id": "ae2:fluix_glass_cable"
+    },
+    "F": {
+      "type": "mctech:resource_ingredient",
+      "count": 1,
+      "id": "ae2:quartz_fiber"
+    },
+    "W": {
+      "type": "mctech:conduit",
+      "conduit_type": "mctech:me"
+    }
+  },
+  "pattern": [
+    " F ",
+    "WCW",
+    " F "
+  ],
+  "result": {
+    "components": {
+      "mctech:conduit": "mctech:dense_me"
+    },
+    "count": 4,
+    "id": "mctech:conduit"
+  }
+}

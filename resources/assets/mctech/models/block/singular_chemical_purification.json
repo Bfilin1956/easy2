@@ -1,0 +1,11 @@
+{
+  "parent": "mctech:block/cube",
+  "textures": {
+    "down": "mctech:block/machine/custom/chemical_purification/singular/inactive_down",
+    "east": "mctech:block/machine/custom/chemical_purification/singular/inactive_north",
+    "north": "mctech:block/machine/custom/chemical_purification/singular/inactive_south",
+    "south": "mctech:block/machine/custom/chemical_purification/singular/inactive_north",
+    "up": "mctech:block/machine/custom/chemical_purification/singular/inactive_up",
+    "west": "mctech:block/machine/custom/chemical_purification/singular/inactive_north"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "mctech:block/quant_fluid_tank"
+    }
+  }
+}

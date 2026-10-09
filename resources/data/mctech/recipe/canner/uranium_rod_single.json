@@ -1,0 +1,21 @@
+{
+	"type": "mctech:canner_fill",
+	"ingredient0": [
+		{
+			"tag":"c:ingots/uranium"
+		}
+	],
+	"ingredient1": [
+		{
+			"item":"mctech:cell_empty"
+		}
+	],
+	"input_count": 1,
+	"energy": 10,
+	"cookingtime": 80.0,
+	"experience": 0.0,
+	"result": {
+		"count": 1,
+		"id": "mctech:uranium_rod_single"
+	}
+}

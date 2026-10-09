@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "item": "mctech:ingot_tin"
+    },
+    "R": {
+      "item": "mctech:rubber"
+    }
+  },
+  "pattern": [
+    "RRR",
+    "CCC",
+    "RRR"
+  ],
+  "result": {
+    "components": {
+      "mctech:conduit": "mctech:eu_energy/tin"
+    },
+    "count": 3,
+    "id": "mctech:conduit"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "mctech:item",
+  "description": {
+    "translate": "item.mctech.conduit.item.coal"
+  },
+  "texture": "mctech:block/conduit/item/coal",
+  "transfer_rate": 2
+}

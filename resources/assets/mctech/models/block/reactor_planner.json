@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/reactor_planner/down",
+    "east": "mctech:block/reactor_planner/east",
+    "north": "mctech:block/reactor_planner/north",
+    "particle": "mctech:block/reactor_planner/north",
+    "south": "mctech:block/reactor_planner/south",
+    "up": "mctech:block/reactor_planner/up",
+    "west": "mctech:block/reactor_planner/west"
+  }
+}

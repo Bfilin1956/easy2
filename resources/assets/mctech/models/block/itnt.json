@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/cube_bottom_top",
+	"textures": {
+		"bottom": "mctech:block/misc/explosive/itnt/industrial_tnt_bottom",
+		"side": "mctech:block/misc/explosive/itnt/industrial_tnt_sides",
+		"top": "mctech:block/misc/explosive/itnt/industrial_tnt_top"
+	}
+}

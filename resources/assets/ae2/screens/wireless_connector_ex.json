@@ -1,0 +1,39 @@
+{
+  "$schema": "schema.json",
+  "includes": [
+    "common/common.json",
+    "common/toolbox.json"
+  ],
+  "background": {
+    "texture": "guis/wireless_connector_ex.png",
+    "srcRect": [
+      0,
+      0,
+      190,
+      253
+    ]
+  },
+  "slots": {
+    "PLAYER_INVENTORY": {
+      "left": 15,
+      "bottom": 84,
+      "grid": "BREAK_AFTER_9COLS"
+    },
+    "PLAYER_HOTBAR": {
+      "left": 15,
+      "bottom": 26,
+      "grid": "HORIZONTAL"
+    }
+  },
+  "text": {
+    "player_inventory_title": {
+      "text": {
+        "translate": "container.inventory"
+      },
+      "position": {
+        "left": 15,
+        "bottom": 95
+      }
+    }
+  }
+}

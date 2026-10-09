@@ -1,0 +1,42 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "mctech.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ae.CellWorkbenchBlockEntityMixin",
+    "client.AbstractContainerScreenMixin",
+    "client.ClientLevelMixin",
+    "client.DebugScreenOverlayMixin",
+    "client.ElytraLayerMixin",
+    "client.EmiRecipeScreenMixin",
+    "client.EmiRenderHelperMixin",
+    "client.EmiStackSerializerMixin",
+    "client.GeoModelAccessor",
+    "client.LivingEntityMixin",
+    "client.MinecraftMixin",
+    "client.MixinEntity",
+    "client.ModelBuilderMixin",
+    "client.OptionsSubScreenMixin",
+    "client.PlayerControllerMixin",
+    "client.PlayerMixin",
+    "client.PlayerRendererMixin",
+    "client.PortableCellItemMixin",
+    "client.PostChainAccessor",
+    "client.SlotDebugMixin",
+    "client.SlotMixin",
+    "client.SlotScaleMixin",
+    "client.TerrainParticleMixin",
+    "client.audio.SoundEngineMixin",
+    "client.audio.SoundHandlerMixin",
+    "client.emi.RecipeFillerMixin",
+    "client.rendering.AbstractContainerScreenMixin",
+    "client.shaders.GameRendererMixin",
+    "kubejs.EventHandlerContainerMixin"
+  ],
+  "server": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

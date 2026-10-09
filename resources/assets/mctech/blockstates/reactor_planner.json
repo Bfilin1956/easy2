@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "mctech:block/reactor_planner",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "mctech:block/reactor_planner",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "mctech:block/reactor_planner",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "mctech:block/reactor_planner"
+    },
+    "facing=up": {
+      "model": "mctech:block/reactor_planner",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "mctech:block/reactor_planner",
+      "y": 90
+    }
+  }
+}

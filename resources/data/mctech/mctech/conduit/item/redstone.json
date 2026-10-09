@@ -1,0 +1,7 @@
+{
+  "type": "mctech:item",
+  "description": {
+    "translate": "item.mctech.conduit.item.redstone"
+  },
+  "texture": "mctech:block/conduit/item/redstone"
+}

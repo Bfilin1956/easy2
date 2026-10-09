@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mctech:block/wireless_connect/t1/wireless_connect_green_t1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t2/saw_mill/inactive_down",
+		"up": "mctech:block/machine/t2/saw_mill/inactive_up",
+		"north": "mctech:block/machine/t2/saw_mill/inactive_south",
+		"south": "mctech:block/machine/t2/saw_mill/inactive_north",
+		"west": "mctech:block/machine/t2/saw_mill/inactive_west",
+		"east": "mctech:block/machine/t2/saw_mill/inactive_east"
+	}
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "type": "mctech:resource_ingredient",
+      "count": 1,
+      "id": "kubejs:cut_quartz_power_crystal"
+    },
+    "C": {
+      "type": "mctech:conduit",
+      "conduit_type": "mctech:fluid/amethyst"
+    },
+    "P": {
+      "type": "mctech:resource_ingredient",
+      "count": 1,
+      "id": "kubejs:quartz_rough_plate"
+    }
+  },
+  "pattern": [
+    "PPP",
+    "ACA",
+    "PPP"
+  ],
+  "result": {
+    "components": {
+      "mctech:conduit": "mctech:fluid/quartz"
+    },
+    "count": 6,
+    "id": "mctech:conduit"
+  }
+}

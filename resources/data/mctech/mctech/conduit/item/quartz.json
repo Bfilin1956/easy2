@@ -1,0 +1,8 @@
+{
+  "type": "mctech:item",
+  "description": {
+    "translate": "item.mctech.conduit.item.quartz"
+  },
+  "texture": "mctech:block/conduit/item/quartz",
+  "transfer_rate": 32
+}

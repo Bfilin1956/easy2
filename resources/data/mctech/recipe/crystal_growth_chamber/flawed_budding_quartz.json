@@ -1,0 +1,8 @@
+{
+  "type": "mctech:crystal_growth_chamber",
+  "crystalCount": 1,
+  "input": {
+    "item": "ae2:flawed_budding_quartz"
+  },
+  "tickDuration": 100
+}

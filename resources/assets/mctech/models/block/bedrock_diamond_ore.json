@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "mctech:block/ore/diamond/diamond_ore_down",
+    "particle": "mctech:block/ore/diamond/diamond_ore_side",
+    "side": "mctech:block/ore/diamond/diamond_ore_side",
+    "top": "mctech:block/ore/diamond/diamond_ore_up"
+  }
+}

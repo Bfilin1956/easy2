@@ -1,0 +1,8 @@
+{
+  "type": "mctech:energy",
+  "description": {
+    "translate": "item.mctech.conduit.energy.enhanced"
+  },
+  "texture": "mctech:block/conduit/enhanced_energy",
+  "transfer_rate": 12000
+}

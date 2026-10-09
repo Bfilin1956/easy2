@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/electric/transformer/adjustable/inactive_down",
+		"up": "mctech:block/electric/transformer/adjustable/inactive_up",
+		"north": "mctech:block/electric/transformer/adjustable/inactive_south",
+		"south": "mctech:block/electric/transformer/adjustable/inactive_north",
+		"west": "mctech:block/electric/transformer/adjustable/inactive_west",
+		"east": "mctech:block/electric/transformer/adjustable/inactive_east"
+	}
+}

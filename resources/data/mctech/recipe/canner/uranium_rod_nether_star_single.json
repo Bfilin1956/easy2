@@ -1,0 +1,21 @@
+{
+	"type": "mctech:canner_fill",
+	"ingredient0": [
+		{
+			"item":"mctech:ingot_uranium_enriched_netherstar"
+		}
+	],
+	"ingredient1": [
+		{
+			"item":"mctech:cell_empty"
+		}
+	],
+	"input_count": 1,
+	"energy": 10,
+	"cookingtime": 80.0,
+	"experience": 0.0,
+	"result": {
+		"count": 1,
+		"id": "mctech:uranium_rod_nether_star_single"
+	}
+}

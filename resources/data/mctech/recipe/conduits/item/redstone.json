@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "C": {
+      "type": "mctech:conduit",
+      "conduit_type": "mctech:item/coal"
+    },
+    "I": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "III",
+    "ICI",
+    "III"
+  ],
+  "result": {
+    "components": {
+      "mctech:conduit": "mctech:item/redstone"
+    },
+    "count": 6,
+    "id": "mctech:conduit"
+  }
+}

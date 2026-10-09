@@ -1,0 +1,25 @@
+{
+  "type": "mctech:assembly_station",
+  "category": "assembly_station",
+  "group": "assembly_station",
+  "shapeless": [
+    {
+      "id": "minecraft:coal",
+      "count": 1
+    }
+  ],
+  "fluids": [],
+  "consumables": [
+    "mctech:axes"
+  ],
+  "required_energy": 150,
+  "required_time": 50,
+  "experience": 0,
+  "result": {
+    "id": "mctech:conduit",
+    "count": 2,
+    "components": {
+      "mctech:conduit": "mctech:item/copper"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "mctech:block/cube",
+	"textures": {
+		"down": "mctech:block/machine/t2/canner/inactive_down",
+		"up": "mctech:block/machine/t2/canner/inactive_up",
+		"north": "mctech:block/machine/t2/canner/inactive_south",
+		"south": "mctech:block/machine/t2/canner/inactive_north",
+		"west": "mctech:block/machine/t2/canner/inactive_west",
+		"east": "mctech:block/machine/t2/canner/inactive_east"
+	}
+}

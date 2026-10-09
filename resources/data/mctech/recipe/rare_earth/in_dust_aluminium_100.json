@@ -1,0 +1,12 @@
+{
+	"type": "mctech:rare_earth_in",
+	"category": "rare_earth_in",
+	"group": "rare_earth_in",
+	"ingredient": [
+		{
+			"item":"minecraft:dirt"
+		}
+	],
+	"amount": 100.0,
+	"material": "mctech:dust_aluminium"
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/matrix_converter/inactive_down",
+    "east": "mctech:block/matrix_converter/inactive_east",
+    "north": "mctech:block/matrix_converter/inactive_north",
+    "particle": "mctech:block/matrix_converter/inactive_north",
+    "south": "mctech:block/matrix_converter/inactive_south",
+    "up": "mctech:block/matrix_converter/inactive_up",
+    "west": "mctech:block/matrix_converter/inactive_west"
+  }
+}

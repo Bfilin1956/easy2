@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mctech:block/ore/aluminium_ore_nether",
+    "particle": "mctech:block/ore/aluminium_ore_nether"
+  }
+}

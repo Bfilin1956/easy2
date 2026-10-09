@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/quantum_recycler/inactive_down",
+    "east": "mctech:block/quantum_recycler/inactive_east",
+    "north": "mctech:block/quantum_recycler/inactive_north",
+    "particle": "mctech:block/quantum_recycler/inactive_north",
+    "south": "mctech:block/quantum_recycler/inactive_south",
+    "up": "mctech:block/quantum_recycler/inactive_up",
+    "west": "mctech:block/quantum_recycler/inactive_west"
+  }
+}

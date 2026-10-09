@@ -1,0 +1,9 @@
+{
+  "type": "mctech:eu_conduit",
+  "description": {
+    "translate": "item.mctech.conduit.eu_energy.glass"
+  },
+  "maxVoltage": 513,
+  "texture": "mctech:block/conduit/eu_energy/glass",
+  "transferRate": 512
+}

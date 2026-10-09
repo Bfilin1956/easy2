@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/singularity_collector/t3/active_down",
+    "east": "mctech:block/singularity_collector/t3/active_east",
+    "north": "mctech:block/singularity_collector/t3/active_north",
+    "particle": "mctech:block/singularity_collector/t3/active_north",
+    "south": "mctech:block/singularity_collector/t3/active_south",
+    "up": "mctech:block/singularity_collector/t3/active_up",
+    "west": "mctech:block/singularity_collector/t3/active_west"
+  }
+}

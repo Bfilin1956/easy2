@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/metal_former/t5/inactive_down",
+    "east": "mctech:block/metal_former/t5/inactive_east",
+    "north": "mctech:block/metal_former/t5/inactive_north",
+    "particle": "mctech:block/metal_former/t5/inactive_north",
+    "south": "mctech:block/metal_former/t5/inactive_south",
+    "up": "mctech:block/metal_former/t5/inactive_up",
+    "west": "mctech:block/metal_former/t5/inactive_west"
+  }
+}

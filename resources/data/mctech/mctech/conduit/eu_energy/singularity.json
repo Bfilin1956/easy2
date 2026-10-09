@@ -1,0 +1,9 @@
+{
+  "type": "mctech:eu_conduit",
+  "description": {
+    "translate": "item.mctech.conduit.eu_energy.singularity"
+  },
+  "maxVoltage": 32769,
+  "texture": "mctech:block/conduit/eu_energy/singularity",
+  "transferRate": 32768
+}

@@ -1,0 +1,5 @@
+{
+  "parent": "neoforge:item/bucket",
+  "fluid": "mctech:fluid_distilled_water_still",
+  "loader": "neoforge:fluid_container"
+}

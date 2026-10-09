@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "mctech:block/machine/custom/alloy_smelter/t5/active_down",
+    "east": "mctech:block/machine/custom/alloy_smelter/t5/active_east",
+    "north": "mctech:block/machine/custom/alloy_smelter/t5/active_north",
+    "particle": "mctech:block/machine/custom/alloy_smelter/t5/active_north",
+    "south": "mctech:block/machine/custom/alloy_smelter/t5/active_south",
+    "up": "mctech:block/machine/custom/alloy_smelter/t5/active_up",
+    "west": "mctech:block/machine/custom/alloy_smelter/t5/active_west"
+  }
+}
